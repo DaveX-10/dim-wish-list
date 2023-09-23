@@ -1,0 +1,1804 @@
+title:Aegis Weapon Tiering S22
+description:Taken from Aegis' Weapon Tiering series. Full info found here: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit#gid=1358721053
+
+// The Wizened Rebuke - The Wizened Rebuke (pve)
+//notes: (C) High-Impact / Arc / Energy damage [2.5] tags:pve
+dimwishlist:item=2290416&perks=2173046394
+dimwishlist:item=2290416&perks=2213355989
+dimwishlist:item=2290416&perks=1546637391
+
+
+// Riiswalker - Riiswalker (pve)
+//notes: (C) Lightweight / Kinetic / Kinetic swap [6.5] tags:pve
+dimwishlist:item=108221785&perks=706527188,1546637391
+dimwishlist:item=108221785&perks=3436462433,1546637391
+
+
+// Nessa's Oblation - Nessa's Oblation (pve)
+//notes: (C) Slug / Void / Energy swap [5.5] tags:pve
+dimwishlist:item=135029084&perks=1354429876,4104185692
+dimwishlist:item=135029084&perks=1354429876,3007133316
+dimwishlist:item=135029084&perks=1354429876,1546637391
+dimwishlist:item=135029084&perks=1354429876,3418165135
+dimwishlist:item=135029084&perks=1354429876,2896038713
+dimwishlist:item=135029084&perks=1354429876,2402480669
+dimwishlist:item=135029084&perks=848860060,4104185692
+dimwishlist:item=135029084&perks=848860060,3007133316
+dimwishlist:item=135029084&perks=848860060,1546637391
+dimwishlist:item=135029084&perks=848860060,3418165135
+dimwishlist:item=135029084&perks=848860060,2896038713
+dimwishlist:item=135029084&perks=848860060,2402480669
+dimwishlist:item=135029084&perks=1523832109,4104185692
+dimwishlist:item=135029084&perks=1523832109,3007133316
+dimwishlist:item=135029084&perks=1523832109,1546637391
+dimwishlist:item=135029084&perks=1523832109,3418165135
+dimwishlist:item=135029084&perks=1523832109,2896038713
+dimwishlist:item=135029084&perks=1523832109,2402480669
+dimwishlist:item=135029084&perks=461595545,4104185692
+dimwishlist:item=135029084&perks=461595545,3007133316
+dimwishlist:item=135029084&perks=461595545,1546637391
+dimwishlist:item=135029084&perks=461595545,3418165135
+dimwishlist:item=135029084&perks=461595545,2896038713
+dimwishlist:item=135029084&perks=461595545,2402480669
+dimwishlist:item=135029084&perks=968510818,4104185692
+dimwishlist:item=135029084&perks=968510818,3007133316
+dimwishlist:item=135029084&perks=968510818,1546637391
+dimwishlist:item=135029084&perks=968510818,3418165135
+dimwishlist:item=135029084&perks=968510818,2896038713
+dimwishlist:item=135029084&perks=968510818,2402480669
+dimwishlist:item=135029084&perks=424370782,4104185692
+dimwishlist:item=135029084&perks=424370782,3007133316
+dimwishlist:item=135029084&perks=424370782,1546637391
+dimwishlist:item=135029084&perks=424370782,3418165135
+dimwishlist:item=135029084&perks=424370782,2896038713
+dimwishlist:item=135029084&perks=424370782,2402480669
+
+
+// The Deicide - The Deicide (pve)
+//notes: (A) Rapid / Void / Energy utility [9] tags:pve
+dimwishlist:item=217140611&perks=3436462433,2679249093
+dimwishlist:item=217140611&perks=3436462433,1546637391
+dimwishlist:item=217140611&perks=1556840489,2679249093
+dimwishlist:item=217140611&perks=1556840489,1546637391
+dimwishlist:item=217140611&perks=1631667848,2679249093
+dimwishlist:item=217140611&perks=1631667848,1546637391
+
+
+// Main Ingredient - Main Ingredient (pve)
+//notes: (D) Precision / Arc / Energy damage [1.5] tags:pve
+dimwishlist:item=253196586&perks=3300816228,2213355989
+
+
+// Prodigal Return - Prodigal Return (pve)
+//notes: (D) Lightweight / Arc / Energy utility [3] tags:pve
+dimwishlist:item=268260373&perks=2869569095,960810156
+dimwishlist:item=268260373&perks=2869569095,3523296417
+dimwishlist:item=268260373&perks=2869569095,2173046394
+dimwishlist:item=268260373&perks=2869569095,1077019636
+dimwishlist:item=268260373&perks=2869569095,1906147653
+dimwishlist:item=268260373&perks=2869569095,1720528630
+dimwishlist:item=268260373&perks=1556840489,960810156
+dimwishlist:item=268260373&perks=1556840489,3523296417
+dimwishlist:item=268260373&perks=1556840489,2173046394
+dimwishlist:item=268260373&perks=1556840489,1077019636
+dimwishlist:item=268260373&perks=1556840489,1906147653
+dimwishlist:item=268260373&perks=1556840489,1720528630
+dimwishlist:item=268260373&perks=2308090567,960810156
+dimwishlist:item=268260373&perks=2308090567,3523296417
+dimwishlist:item=268260373&perks=2308090567,2173046394
+dimwishlist:item=268260373&perks=2308090567,1077019636
+dimwishlist:item=268260373&perks=2308090567,1906147653
+dimwishlist:item=268260373&perks=2308090567,1720528630
+dimwishlist:item=268260373&perks=3442762221,960810156
+dimwishlist:item=268260373&perks=3442762221,3523296417
+dimwishlist:item=268260373&perks=3442762221,2173046394
+dimwishlist:item=268260373&perks=3442762221,1077019636
+dimwishlist:item=268260373&perks=3442762221,1906147653
+dimwishlist:item=268260373&perks=3442762221,1720528630
+dimwishlist:item=268260373&perks=968510818,960810156
+dimwishlist:item=268260373&perks=968510818,3523296417
+dimwishlist:item=268260373&perks=968510818,2173046394
+dimwishlist:item=268260373&perks=968510818,1077019636
+dimwishlist:item=268260373&perks=968510818,1906147653
+dimwishlist:item=268260373&perks=968510818,1720528630
+dimwishlist:item=268260373&perks=424370782,960810156
+dimwishlist:item=268260373&perks=424370782,3523296417
+dimwishlist:item=268260373&perks=424370782,2173046394
+dimwishlist:item=268260373&perks=424370782,1077019636
+dimwishlist:item=268260373&perks=424370782,1906147653
+dimwishlist:item=268260373&perks=424370782,1720528630
+
+
+// Exile's Curse (Adept) - Exile's Curse (Adept) (pve)
+//notes: (C) High-Impact / Arc / Energy damage [2.5] tags:pve
+dimwishlist:item=276080079&perks=3161816588,1546637391
+dimwishlist:item=276080079&perks=3161816588,2213355989
+
+
+// Ignition Code - Ignition Code (pve)
+//notes: (B) Lightweight / Kinetic / Kinetic utility [7] tags:pve
+dimwishlist:item=304659313&perks=2869569095,3523296417
+dimwishlist:item=304659313&perks=2869569095,960810156
+dimwishlist:item=304659313&perks=2869569095,4104185692
+dimwishlist:item=304659313&perks=2869569095,1546637391
+dimwishlist:item=304659313&perks=1556840489,3523296417
+dimwishlist:item=304659313&perks=1556840489,960810156
+dimwishlist:item=304659313&perks=1556840489,4104185692
+dimwishlist:item=304659313&perks=1556840489,1546637391
+dimwishlist:item=304659313&perks=3161816588,3523296417
+dimwishlist:item=304659313&perks=3161816588,960810156
+dimwishlist:item=304659313&perks=3161816588,4104185692
+dimwishlist:item=304659313&perks=3161816588,1546637391
+dimwishlist:item=304659313&perks=2010801679,3523296417
+dimwishlist:item=304659313&perks=2010801679,960810156
+dimwishlist:item=304659313&perks=2010801679,4104185692
+dimwishlist:item=304659313&perks=2010801679,1546637391
+
+
+// Imperial Decree - Imperial Decree (pve)
+//notes: (A) Aggressive / Kinetic / Kinetic swap [8.5] tags:pve
+dimwishlist:item=318443586&perks=4071163871,3708227201
+dimwishlist:item=318443586&perks=4071163871,781192741
+dimwishlist:item=318443586&perks=4071163871,2360754333
+dimwishlist:item=318443586&perks=4071163871,2459015849
+dimwishlist:item=318443586&perks=494941759,3708227201
+dimwishlist:item=318443586&perks=494941759,781192741
+dimwishlist:item=318443586&perks=494941759,2360754333
+dimwishlist:item=318443586&perks=494941759,2459015849
+dimwishlist:item=318443586&perks=3436462433,3708227201
+dimwishlist:item=318443586&perks=3436462433,781192741
+dimwishlist:item=318443586&perks=3436462433,2360754333
+dimwishlist:item=318443586&perks=3436462433,2459015849
+dimwishlist:item=318443586&perks=2658083589,3708227201
+dimwishlist:item=318443586&perks=2658083589,781192741
+dimwishlist:item=318443586&perks=2658083589,2360754333
+dimwishlist:item=318443586&perks=2658083589,2459015849
+dimwishlist:item=318443586&perks=3300816228,3708227201
+dimwishlist:item=318443586&perks=3300816228,781192741
+dimwishlist:item=318443586&perks=3300816228,2360754333
+dimwishlist:item=318443586&perks=3300816228,2459015849
+dimwishlist:item=318443586&perks=3528046508,3708227201
+dimwishlist:item=318443586&perks=3528046508,781192741
+dimwishlist:item=318443586&perks=3528046508,2360754333
+dimwishlist:item=318443586&perks=3528046508,2459015849
+
+
+// Retold Tale - Retold Tale (pve)
+//notes: (C) Precision / Void / Energy utility [4.5] tags:pve
+dimwishlist:item=346136302&perks=706527188,2679249093
+dimwishlist:item=346136302&perks=706527188,3708227201
+dimwishlist:item=346136302&perks=706527188,1546637391
+dimwishlist:item=346136302&perks=3436462433,2679249093
+dimwishlist:item=346136302&perks=3436462433,3708227201
+dimwishlist:item=346136302&perks=3436462433,1546637391
+dimwishlist:item=346136302&perks=2869569095,2679249093
+dimwishlist:item=346136302&perks=2869569095,3708227201
+dimwishlist:item=346136302&perks=2869569095,1546637391
+dimwishlist:item=346136302&perks=1556840489,2679249093
+dimwishlist:item=346136302&perks=1556840489,3708227201
+dimwishlist:item=346136302&perks=1556840489,1546637391
+
+
+// Gunnora's Axe - Gunnora's Axe (pve)
+//notes: (C) Slug / Arc / Energy swap [4.5] tags:pve
+dimwishlist:item=411397829&perks=1821614984,1546637391
+dimwishlist:item=411397829&perks=4071163871,1546637391
+dimwishlist:item=411397829&perks=3436462433,1546637391
+dimwishlist:item=411397829&perks=3300816228,1546637391
+
+
+// Nessa's Oblation (Adept) - Nessa's Oblation (Adept) (pve)
+//notes: (C) Slug / Void / Energy swap [5.5] tags:pve
+dimwishlist:item=522366885&perks=1354429876,4104185692
+dimwishlist:item=522366885&perks=1354429876,3007133316
+dimwishlist:item=522366885&perks=1354429876,1546637391
+dimwishlist:item=522366885&perks=1354429876,3418165135
+dimwishlist:item=522366885&perks=1354429876,2896038713
+dimwishlist:item=522366885&perks=1354429876,2402480669
+dimwishlist:item=522366885&perks=848860060,4104185692
+dimwishlist:item=522366885&perks=848860060,3007133316
+dimwishlist:item=522366885&perks=848860060,1546637391
+dimwishlist:item=522366885&perks=848860060,3418165135
+dimwishlist:item=522366885&perks=848860060,2896038713
+dimwishlist:item=522366885&perks=848860060,2402480669
+dimwishlist:item=522366885&perks=968510818,4104185692
+dimwishlist:item=522366885&perks=968510818,3007133316
+dimwishlist:item=522366885&perks=968510818,1546637391
+dimwishlist:item=522366885&perks=968510818,3418165135
+dimwishlist:item=522366885&perks=968510818,2896038713
+dimwishlist:item=522366885&perks=968510818,2402480669
+dimwishlist:item=522366885&perks=424370782,4104185692
+dimwishlist:item=522366885&perks=424370782,3007133316
+dimwishlist:item=522366885&perks=424370782,1546637391
+dimwishlist:item=522366885&perks=424370782,3418165135
+dimwishlist:item=522366885&perks=424370782,2896038713
+dimwishlist:item=522366885&perks=424370782,2402480669
+dimwishlist:item=522366885&perks=1523832109,4104185692
+dimwishlist:item=522366885&perks=1523832109,3007133316
+dimwishlist:item=522366885&perks=1523832109,1546637391
+dimwishlist:item=522366885&perks=1523832109,3418165135
+dimwishlist:item=522366885&perks=1523832109,2896038713
+dimwishlist:item=522366885&perks=1523832109,2402480669
+dimwishlist:item=522366885&perks=461595545,4104185692
+dimwishlist:item=522366885&perks=461595545,3007133316
+dimwishlist:item=522366885&perks=461595545,1546637391
+dimwishlist:item=522366885&perks=461595545,3418165135
+dimwishlist:item=522366885&perks=461595545,2896038713
+dimwishlist:item=522366885&perks=461595545,2402480669
+
+
+// PLUG ONE.1 (Adept) - PLUG ONE.1 (Adept) (pve)
+//notes: (D) Precision / Arc / Energy utility [2] tags:pve
+dimwishlist:item=534775659&perks=1427256713
+dimwishlist:item=534775659&perks=1799762209
+
+
+// Sojourner's Tale - Sojourner's Tale (pve)
+//notes: (B) Slug / Solar / Energy swap [7.5] tags:pve
+dimwishlist:item=599895591&perks=4071163871,4104185692
+dimwishlist:item=599895591&perks=4071163871,3708227201
+dimwishlist:item=599895591&perks=706527188,4104185692
+dimwishlist:item=599895591&perks=706527188,3708227201
+dimwishlist:item=599895591&perks=3300816228,4104185692
+dimwishlist:item=599895591&perks=3300816228,3708227201
+
+
+// Hollow Words - Hollow Words (pve)
+//notes: (C) Precision / Arc / Energy damage [2.5] tags:pve
+dimwishlist:item=607191995&perks=1556840489,1546637391
+dimwishlist:item=607191995&perks=1556840489,3708227201
+dimwishlist:item=607191995&perks=2039302152,1546637391
+dimwishlist:item=607191995&perks=2039302152,3708227201
+
+
+// Forbearance - Forbearance (pve)
+//notes: (S) Wave / Arc / Energy splash [10] tags:pve
+dimwishlist:item=613334176&perks=2010801679,2396489472
+dimwishlist:item=613334176&perks=2010801679,3592538738
+dimwishlist:item=613334176&perks=2010801679,4049631843
+dimwishlist:item=613334176&perks=2010801679,3425386926
+dimwishlist:item=613334176&perks=2010801679,2675361166
+dimwishlist:item=613334176&perks=2010801679,288411554
+dimwishlist:item=613334176&perks=2010801679,598607952
+dimwishlist:item=613334176&perks=2010801679,859780267
+dimwishlist:item=613334176&perks=3797647183,2396489472
+dimwishlist:item=613334176&perks=3797647183,3592538738
+dimwishlist:item=613334176&perks=3797647183,4049631843
+dimwishlist:item=613334176&perks=3797647183,3425386926
+dimwishlist:item=613334176&perks=3797647183,2675361166
+dimwishlist:item=613334176&perks=3797647183,288411554
+dimwishlist:item=613334176&perks=3797647183,598607952
+dimwishlist:item=613334176&perks=3797647183,859780267
+dimwishlist:item=613334176&perks=3108830275,2396489472
+dimwishlist:item=613334176&perks=3108830275,3592538738
+dimwishlist:item=613334176&perks=3108830275,4049631843
+dimwishlist:item=613334176&perks=3108830275,3425386926
+dimwishlist:item=613334176&perks=3108830275,2675361166
+dimwishlist:item=613334176&perks=3108830275,288411554
+dimwishlist:item=613334176&perks=3108830275,598607952
+dimwishlist:item=613334176&perks=3108830275,859780267
+dimwishlist:item=613334176&perks=855168139,2396489472
+dimwishlist:item=613334176&perks=855168139,3592538738
+dimwishlist:item=613334176&perks=855168139,4049631843
+dimwishlist:item=613334176&perks=855168139,3425386926
+dimwishlist:item=613334176&perks=855168139,2675361166
+dimwishlist:item=613334176&perks=855168139,288411554
+dimwishlist:item=613334176&perks=855168139,598607952
+dimwishlist:item=613334176&perks=855168139,859780267
+
+
+// Gallu RR3 - Gallu RR3 (pve)
+//notes: (D) Adaptive / Arc / Energy [2] tags:pve
+dimwishlist:item=617501162&perks=3700496672,2896038713
+dimwishlist:item=617501162&perks=3643424744,2896038713
+
+
+// Found Verdict (Timelost) - Found Verdict (Timelost) (pve)
+//notes: (C) Aggressive / Arc / Energy swap [6.5] tags:pve
+dimwishlist:item=631439337&perks=3436462433,2679249093
+dimwishlist:item=631439337&perks=3436462433,4104185692
+dimwishlist:item=631439337&perks=3436462433,1546637391
+dimwishlist:item=631439337&perks=3418782618,2679249093
+dimwishlist:item=631439337&perks=3418782618,4104185692
+dimwishlist:item=631439337&perks=3418782618,1546637391
+dimwishlist:item=631439337&perks=3300816228,2679249093
+dimwishlist:item=631439337&perks=3300816228,4104185692
+dimwishlist:item=631439337&perks=3300816228,1546637391
+
+
+// Hand in Hand - Hand in Hand (pve)
+//notes: (C) Aggressive / Arc / Energy utility [6.5] tags:pve
+dimwishlist:item=664109750&perks=2621346526,2360754333
+dimwishlist:item=664109750&perks=2621346526,3751912585
+dimwishlist:item=664109750&perks=2621346526,2679249093
+
+
+// Albruna-D - Albruna-D (pve)
+//notes: (B) Aggressive / Arc / Energy [7] tags:pve
+dimwishlist:item=676270382&perks=2869569095,1771339417
+dimwishlist:item=676270382&perks=2869569095,1546637391
+dimwishlist:item=676270382&perks=2869569095,4104185692
+dimwishlist:item=676270382&perks=2869569095,2213355989
+dimwishlist:item=676270382&perks=2869569095,3751912585
+dimwishlist:item=676270382&perks=2284787283,1771339417
+dimwishlist:item=676270382&perks=2284787283,1546637391
+dimwishlist:item=676270382&perks=2284787283,4104185692
+dimwishlist:item=676270382&perks=2284787283,2213355989
+dimwishlist:item=676270382&perks=2284787283,3751912585
+dimwishlist:item=676270382&perks=3400784728,1771339417
+dimwishlist:item=676270382&perks=3400784728,1546637391
+dimwishlist:item=676270382&perks=3400784728,4104185692
+dimwishlist:item=676270382&perks=3400784728,2213355989
+dimwishlist:item=676270382&perks=3400784728,3751912585
+
+
+// Exile's Curse - Exile's Curse (pve)
+//notes: (C) High-Impact / Arc / Energy damage [2.5] tags:pve
+dimwishlist:item=679281855&perks=3161816588,1546637391
+dimwishlist:item=679281855&perks=3161816588,2213355989
+
+
+// The Supremacy - The Supremacy (pve)
+//notes: (S) Rapid / Kinetic / Kinetic [14] tags:pve
+dimwishlist:item=686951703&perks=1556840489,1354429876
+dimwishlist:item=2884596447&perks=1556840489,1546637391
+dimwishlist:item=2884596447&perks=1556840489,3891536761
+dimwishlist:item=2884596447&perks=1556840489,3078487919
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+dimwishlist:item=2884596447&perks=3418782618,3891536761
+dimwishlist:item=2884596447&perks=3418782618,1546637391
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+
+
+// Deliverance - Deliverance (pve)
+//notes: (B) Precision / Stasis / Kinetic utility, Kinetic damage [4] tags:pve
+dimwishlist:item=768621510&perks=3523296417,2978966579
+dimwishlist:item=768621510&perks=3523296417,344235611
+dimwishlist:item=768621510&perks=3523296417,3708227201
+dimwishlist:item=768621510&perks=3523296417,781192741
+dimwishlist:item=768621510&perks=3523296417,3078487919
+dimwishlist:item=768621510&perks=3523296417,3744057135
+dimwishlist:item=768621510&perks=1906147653,2978966579
+dimwishlist:item=768621510&perks=1906147653,344235611
+dimwishlist:item=768621510&perks=1906147653,3708227201
+dimwishlist:item=768621510&perks=1906147653,781192741
+dimwishlist:item=768621510&perks=1906147653,3078487919
+dimwishlist:item=768621510&perks=1906147653,3744057135
+dimwishlist:item=768621510&perks=1799762209,2978966579
+dimwishlist:item=768621510&perks=1799762209,344235611
+dimwishlist:item=768621510&perks=1799762209,3708227201
+dimwishlist:item=768621510&perks=1799762209,781192741
+dimwishlist:item=768621510&perks=1799762209,3078487919
+dimwishlist:item=768621510&perks=1799762209,3744057135
+dimwishlist:item=768621510&perks=1008128453,2978966579
+dimwishlist:item=768621510&perks=1008128453,344235611
+dimwishlist:item=768621510&perks=1008128453,3708227201
+dimwishlist:item=768621510&perks=1008128453,781192741
+dimwishlist:item=768621510&perks=1008128453,3078487919
+dimwishlist:item=768621510&perks=1008128453,3744057135
+
+
+// Persuader - Persuader (pve)
+//notes: (C) Rapid / Void / Energy [4] tags:pve
+dimwishlist:item=781498181&perks=3400784728
+dimwishlist:item=781498181&perks=2319119708
+
+
+// The Inquisitor (Adept) - The Inquisitor (Adept) (pve)
+//notes: (D) Slug / Arc / Energy swap [0.5] tags:pve
+dimwishlist:item=825554997&perks=1354429876
+
+
+// Uzume RR4 (Adept) - Uzume RR4 (Adept) (pve)
+//notes: (C) Adaptive / Solar / Energy [4] tags:pve
+dimwishlist:item=852228780&perks=3400784728,1546637391
+dimwishlist:item=852228780&perks=1556840489,1546637391
+dimwishlist:item=852228780&perks=2284787283,1546637391
+
+
+// Occluded Finality - Occluded Finality (pve)
+//notes: (C) Aggressive / Arc / Energy [5.5] tags:pve
+dimwishlist:item=852551895&perks=3300816228,1546637391
+dimwishlist:item=852551895&perks=3300816228,1771339417
+
+
+// Astral Horizon (Adept) - Astral Horizon (Adept) (pve)
+//notes: (B) Aggressive / Kinetic / Kinetic swap [7] tags:pve
+dimwishlist:item=854379020&perks=4071163871,2679249093
+dimwishlist:item=854379020&perks=4071163871,1546637391
+dimwishlist:item=854379020&perks=4071163871,3751912585
+dimwishlist:item=854379020&perks=3436462433,2679249093
+dimwishlist:item=854379020&perks=3436462433,1546637391
+dimwishlist:item=854379020&perks=3436462433,3751912585
+
+
+// Far Future - Far Future (pve)
+//notes: (C) Adaptive / Solar / Energy [3.5] tags:pve
+dimwishlist:item=893527433&perks=1556840489,4104185692
+dimwishlist:item=893527433&perks=3300816228,4104185692
+
+
+// Burden of Guilt - Burden of Guilt (pve)
+//notes: (C) Adaptive / Stasis / Kinetic utility [2.5] tags:pve
+dimwishlist:item=933455006&perks=2978966579
+dimwishlist:item=933455006&perks=1546637391
+dimwishlist:item=933455006&perks=2213355989
+
+
+// Aurvandil FR6 - Aurvandil FR6 (pve)
+//notes: (C) High-Impact / Stasis / Kinetic utility [3.5] tags:pve
+dimwishlist:item=963710795&perks=1523832109,2978966579
+dimwishlist:item=963710795&perks=1523832109,3523296417
+dimwishlist:item=963710795&perks=1820235745,2978966579
+dimwishlist:item=963710795&perks=1820235745,3523296417
+dimwishlist:item=963710795&perks=2039302152,2978966579
+dimwishlist:item=963710795&perks=2039302152,3523296417
+
+
+// Deafening Whisper - Deafening Whisper (pve)
+//notes: (A) Wave / Void / Energy splash [7.5] tags:pve
+dimwishlist:item=981718087&perks=1556840489,3300816228
+dimwishlist:item=981718087&perks=1556840489,3592538738
+dimwishlist:item=981718087&perks=1556840489,3108830275
+dimwishlist:item=981718087&perks=1556840489,3425386926
+dimwishlist:item=981718087&perks=2010801679,3300816228
+dimwishlist:item=981718087&perks=2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,3108830275
+dimwishlist:item=981718087&perks=2010801679,3425386926
+
+
+// One Small Step - One Small Step (pve)
+//notes: (A) Rapid / Kinetic / Kinetic utility [9.5] tags:pve
+dimwishlist:item=1016668089&perks=3436462433,2360754333
+dimwishlist:item=1016668089&perks=3436462433,2679249093
+dimwishlist:item=1016668089&perks=1556840489,2360754333
+dimwishlist:item=1016668089&perks=1556840489,2679249093
+dimwishlist:item=1016668089&perks=3300816228,2360754333
+dimwishlist:item=1016668089&perks=3300816228,2679249093
+
+
+// The Comedian - The Comedian (pve)
+//notes: (A) Aggressive / Void / Energy swap [8] tags:pve
+dimwishlist:item=1028582252&perks=2621346526,2360754333
+dimwishlist:item=1028582252&perks=2621346526,1546637391
+dimwishlist:item=1028582252&perks=1556840489,2360754333
+dimwishlist:item=1028582252&perks=1556840489,1546637391
+
+
+// Pressurized Precision - Pressurized Precision (pve)
+//notes: (B) Adaptive / Strand / Kinetic damage, Kinetic utility [4.5] tags:pve
+dimwishlist:item=1084190509&perks=3978468247,2213355989
+dimwishlist:item=1084190509&perks=3978468247,1546637391
+dimwishlist:item=1084190509&perks=3978468247,1799762209
+dimwishlist:item=1084190509&perks=3300816228,2213355989
+dimwishlist:item=1084190509&perks=3300816228,1546637391
+dimwishlist:item=1084190509&perks=3300816228,1799762209
+
+
+// Last Foray - Last Foray (pve)
+//notes: (A) Aggressive / Solar / Energy [8.5] tags:pve
+dimwishlist:item=1106635211&perks=1556840489,3751912585
+dimwishlist:item=1106635211&perks=1556840489,4104185692
+dimwishlist:item=1106635211&perks=1556840489,2896038713
+dimwishlist:item=1106635211&perks=2869569095,3751912585
+dimwishlist:item=1106635211&perks=2869569095,4104185692
+dimwishlist:item=1106635211&perks=2869569095,2896038713
+dimwishlist:item=1106635211&perks=968510818,3751912585
+dimwishlist:item=1106635211&perks=968510818,4104185692
+dimwishlist:item=1106635211&perks=968510818,2896038713
+
+
+// New Pacific Epitaph - New Pacific Epitaph (pve)
+//notes: (A) Wave / Stasis / Kinetic splash [7.5] tags:pve
+dimwishlist:item=1125217994&perks=1556840489,3201496230
+dimwishlist:item=1125217994&perks=1556840489,1015611457
+dimwishlist:item=1125217994&perks=3523296417,3201496230
+dimwishlist:item=1125217994&perks=3523296417,1015611457
+dimwishlist:item=1125217994&perks=3108830275,3201496230
+dimwishlist:item=1125217994&perks=3108830275,1015611457
+
+
+// Sole Survivor - Sole Survivor (pve)
+//notes: (C) Adaptive / Arc / Energy [5] tags:pve
+dimwishlist:item=1150492185&perks=1556840489,2896038713
+dimwishlist:item=1150492185&perks=1556840489,1771339417
+dimwishlist:item=1150492185&perks=1556840489,1546637391
+dimwishlist:item=1150492185&perks=1556840489,4104185692
+dimwishlist:item=1150492185&perks=2869569095,2896038713
+dimwishlist:item=1150492185&perks=2869569095,1771339417
+dimwishlist:item=1150492185&perks=2869569095,1546637391
+dimwishlist:item=1150492185&perks=2869569095,4104185692
+
+
+// IKELOS_SG_v1.0.3 - IKELOS_SG_V1.0.3 (pve)
+//notes: (S) Rapid / Solar / Energy utility [11.5] tags:pve
+dimwishlist:item=1168625549&perks=4071163871,1546637391
+dimwishlist:item=1168625549&perks=4071163871,3418165135
+dimwishlist:item=1168625549&perks=4071163871,3708227201
+dimwishlist:item=1168625549&perks=4071163871,781192741
+dimwishlist:item=1168625549&perks=4071163871,3751912585
+dimwishlist:item=1168625549&perks=4071163871,331667533
+dimwishlist:item=1168625549&perks=4071163871,2679249093
+dimwishlist:item=1168625549&perks=4071163871,788178929
+dimwishlist:item=1168625549&perks=4071163871,2360754333
+dimwishlist:item=1168625549&perks=4071163871,2459015849
+dimwishlist:item=1168625549&perks=494941759,1546637391
+dimwishlist:item=1168625549&perks=494941759,3418165135
+dimwishlist:item=1168625549&perks=494941759,3708227201
+dimwishlist:item=1168625549&perks=494941759,781192741
+dimwishlist:item=1168625549&perks=494941759,3751912585
+dimwishlist:item=1168625549&perks=494941759,331667533
+dimwishlist:item=1168625549&perks=494941759,2679249093
+dimwishlist:item=1168625549&perks=494941759,788178929
+dimwishlist:item=1168625549&perks=494941759,2360754333
+dimwishlist:item=1168625549&perks=494941759,2459015849
+dimwishlist:item=1168625549&perks=1631667848,1546637391
+dimwishlist:item=1168625549&perks=1631667848,3418165135
+dimwishlist:item=1168625549&perks=1631667848,3708227201
+dimwishlist:item=1168625549&perks=1631667848,781192741
+dimwishlist:item=1168625549&perks=1631667848,3751912585
+dimwishlist:item=1168625549&perks=1631667848,331667533
+dimwishlist:item=1168625549&perks=1631667848,2679249093
+dimwishlist:item=1168625549&perks=1631667848,788178929
+dimwishlist:item=1168625549&perks=1631667848,2360754333
+dimwishlist:item=1168625549&perks=1631667848,2459015849
+dimwishlist:item=1168625549&perks=402033656,1546637391
+dimwishlist:item=1168625549&perks=402033656,3418165135
+dimwishlist:item=1168625549&perks=402033656,3708227201
+dimwishlist:item=1168625549&perks=402033656,781192741
+dimwishlist:item=1168625549&perks=402033656,3751912585
+dimwishlist:item=1168625549&perks=402033656,331667533
+dimwishlist:item=1168625549&perks=402033656,2679249093
+dimwishlist:item=1168625549&perks=402033656,788178929
+dimwishlist:item=1168625549&perks=402033656,2360754333
+dimwishlist:item=1168625549&perks=402033656,2459015849
+
+
+// Felwinter's Lie - Felwinter's Lie (pve)
+//notes: (C) Aggressive / Solar / Energy swap [5.5] tags:pve
+dimwishlist:item=1179141605&perks=3436462433,1546637391
+
+
+// Swordbreaker (Adept) - Swordbreaker (Adept) (pve)
+//notes: (C) Lightweight / Strand / Energy utility [5.5] tags:pve
+dimwishlist:item=1239700299&perks=4071163871,3708227201
+dimwishlist:item=1239700299&perks=4071163871,781192741
+dimwishlist:item=1239700299&perks=4071163871,2679249093
+dimwishlist:item=1239700299&perks=4071163871,788178929
+dimwishlist:item=1239700299&perks=494941759,3708227201
+dimwishlist:item=1239700299&perks=494941759,781192741
+dimwishlist:item=1239700299&perks=494941759,2679249093
+dimwishlist:item=1239700299&perks=494941759,788178929
+
+
+// Widow's Bite - Widow's Bite (pve)
+//notes: (C) Rapid / Solar / Energy [4] tags:pve
+dimwishlist:item=1271343896&perks=1556840489
+
+
+// Mechabre - Mechabre (pve)
+//notes: (C) Aggressive / Arc / Energy [4.5] tags:pve
+dimwishlist:item=1280894514&perks=3400784728,2213355989
+dimwishlist:item=1280894514&perks=3400784728,1546637391
+dimwishlist:item=1280894514&perks=3300816228,2213355989
+dimwishlist:item=1280894514&perks=3300816228,1546637391
+dimwishlist:item=1280894514&perks=2284787283,2213355989
+dimwishlist:item=1280894514&perks=2284787283,1546637391
+
+
+// PLUG ONE.1 - PLUG ONE.1 (pve)
+//notes: (D) Precision / Arc / Energy utility [2] tags:pve
+dimwishlist:item=1289000550&perks=1799762209
+dimwishlist:item=1289000550&perks=1427256713
+
+
+// Iterative Loop - Iterative Loop (pve)
+//notes: (B) Rapid / Arc / Energy utility [4] tags:pve
+dimwishlist:item=1289796511&perks=1556840489,3523296417,164468655
+dimwishlist:item=1289796511&perks=1556840489,2173046394,164468655
+dimwishlist:item=1289796511&perks=1556840489,1906147653,164468655
+dimwishlist:item=1289796511&perks=1556840489,1720528630,164468655
+dimwishlist:item=1289796511&perks=3442762221,3523296417,164468655
+dimwishlist:item=1289796511&perks=3442762221,2173046394,164468655
+dimwishlist:item=1289796511&perks=3442762221,1906147653,164468655
+dimwishlist:item=1289796511&perks=3442762221,1720528630,164468655
+
+
+// Deadpan Delivery - Deadpan Delivery (pve)
+//notes: (C) Aggressive / Arc / Energy swap [6] tags:pve
+dimwishlist:item=1296429091&perks=3436462433,2679249093
+dimwishlist:item=1296429091&perks=3436462433,4104185692
+dimwishlist:item=1296429091&perks=3436462433,2360754333
+
+
+// Retrofuturist - Retrofuturist (pve)
+//notes: (D) Lightweight / Void / Energy utility [2.5] tags:pve
+dimwishlist:item=1402766122&perks=706527188,2360754333
+
+
+// Bite of the Fox - Bite of the Fox (pve)
+//notes: (C) Aggressive / Kinetic / Kinetic [4.5] tags:pve
+dimwishlist:item=1403800851&perks=968510818,1546637391
+
+
+// Without Remorse - Without Remorse (pve)
+//notes: (B) Lightweight / Solar / Energy utility [7] tags:pve
+dimwishlist:item=1478986057&perks=4071163871,2679249093
+dimwishlist:item=1478986057&perks=4071163871,788178929
+dimwishlist:item=1478986057&perks=4071163871,1546637391
+dimwishlist:item=1478986057&perks=4071163871,3418165135
+dimwishlist:item=1478986057&perks=494941759,2679249093
+dimwishlist:item=1478986057&perks=494941759,788178929
+dimwishlist:item=1478986057&perks=494941759,1546637391
+dimwishlist:item=1478986057&perks=494941759,3418165135
+dimwishlist:item=1478986057&perks=2869569095,2679249093
+dimwishlist:item=1478986057&perks=2869569095,788178929
+dimwishlist:item=1478986057&perks=2869569095,1546637391
+dimwishlist:item=1478986057&perks=2869569095,3418165135
+dimwishlist:item=1478986057&perks=2308090567,2679249093
+dimwishlist:item=1478986057&perks=2308090567,788178929
+dimwishlist:item=1478986057&perks=2308090567,1546637391
+dimwishlist:item=1478986057&perks=2308090567,3418165135
+
+
+// Mindbender's Ambition - Mindbender's Ambition (pve)
+//notes: (B) Aggressive / Solar / Energy swap [7] tags:pve
+dimwishlist:item=1586231351&perks=3436462433,2679249093
+dimwishlist:item=1586231351&perks=3436462433,1546637391
+dimwishlist:item=1586231351&perks=4071163871,2679249093
+dimwishlist:item=1586231351&perks=4071163871,1546637391
+
+
+// Harsh Language - Harsh Language (pve)
+//notes: (A) Wave / Void / Energy splash [7.5] tags:pve
+dimwishlist:item=1606497639&perks=2869569095,2048641572
+dimwishlist:item=1606497639&perks=2869569095,776531651
+dimwishlist:item=1606497639&perks=968510818,2048641572
+dimwishlist:item=1606497639&perks=968510818,776531651
+dimwishlist:item=1606497639&perks=3592538738,2048641572
+dimwishlist:item=1606497639&perks=3592538738,776531651
+
+
+// Null Composure - Null Composure (pve)
+//notes: (B) Rapid / Void / Energy utility [4.5] tags:pve
+dimwishlist:item=1644680957&perks=1427256713
+dimwishlist:item=1644680957&perks=2213355989
+
+
+// Tranquility - Tranquility (pve)
+//notes: (C) Adaptive / Kinetic / Kinetic [5.5] tags:pve
+dimwishlist:item=1645386487&perks=1556840489,1771339417
+dimwishlist:item=1645386487&perks=1556840489,4104185692
+dimwishlist:item=1645386487&perks=3300816228,1771339417
+dimwishlist:item=1645386487&perks=3300816228,4104185692
+
+
+// Wastelander M5 - Wastelander M5 (pve)
+//notes: (B) Lightweight / Kinetic / Kinetic utility [7] tags:pve
+dimwishlist:item=1679868061&perks=1556840489,2679249093
+dimwishlist:item=1679868061&perks=1556840489,2360754333
+dimwishlist:item=1679868061&perks=1556840489,1546637391
+dimwishlist:item=1679868061&perks=1556840489,2459015849
+dimwishlist:item=1679868061&perks=1556840489,788178929
+dimwishlist:item=1679868061&perks=1556840489,3418165135
+dimwishlist:item=1679868061&perks=3442762221,2679249093
+dimwishlist:item=1679868061&perks=3442762221,2360754333
+dimwishlist:item=1679868061&perks=3442762221,1546637391
+dimwishlist:item=1679868061&perks=3442762221,2459015849
+dimwishlist:item=1679868061&perks=3442762221,788178929
+dimwishlist:item=1679868061&perks=3442762221,3418165135
+
+
+// Royal Executioner - Royal Executioner (pve)
+//notes: (A) Adaptive / Solar / Energy damage, Energy utility [6] tags:pve
+dimwishlist:item=1720503118&perks=1556840489,1427256713
+dimwishlist:item=1720503118&perks=1556840489,254337357
+dimwishlist:item=1720503118&perks=968510818,1427256713
+dimwishlist:item=1720503118&perks=968510818,254337357
+dimwishlist:item=1720503118&perks=3442762221,1427256713
+dimwishlist:item=1720503118&perks=3442762221,254337357
+dimwishlist:item=1720503118&perks=424370782,1427256713
+dimwishlist:item=1720503118&perks=424370782,254337357
+
+
+// A Distant Pull - A Distant Pull (pve)
+//notes: (B) Rapid / Stasis / Kinetic [6.5] tags:pve
+dimwishlist:item=1769847435&perks=3400784728,2896038713
+dimwishlist:item=1769847435&perks=3400784728,2402480669
+dimwishlist:item=1769847435&perks=3643424744,2896038713
+dimwishlist:item=1769847435&perks=3643424744,2402480669
+dimwishlist:item=1769847435&perks=2682205016,2896038713
+dimwishlist:item=1769847435&perks=2682205016,2402480669
+dimwishlist:item=1769847435&perks=573122728,2896038713
+dimwishlist:item=1769847435&perks=573122728,2402480669
+
+
+// Seventh Seraph CQC-12 - Seventh Seraph CQC-12 (pve)
+//notes: (B) Lightweight / Solar / Energy utility [7.5] tags:pve
+dimwishlist:item=1821724780&perks=706527188,1546637391
+dimwishlist:item=1821724780&perks=706527188,2360754333
+dimwishlist:item=1821724780&perks=1556840489,1546637391
+dimwishlist:item=1821724780&perks=1556840489,2360754333
+dimwishlist:item=1821724780&perks=3300816228,1546637391
+dimwishlist:item=1821724780&perks=3300816228,2360754333
+
+
+// The Militia's Birthright - The Militia's Birthright (pve)
+//notes: (C) Lightweight / Kinetic / Kinetic utility [6.5] tags:pve
+dimwishlist:item=1854753405&perks=1556840489,3300816228
+dimwishlist:item=1854753405&perks=1556840489,960810156
+dimwishlist:item=1854753405&perks=1556840489,4104185692
+dimwishlist:item=1854753405&perks=2039302152,3300816228
+dimwishlist:item=1854753405&perks=2039302152,960810156
+dimwishlist:item=1854753405&perks=2039302152,4104185692
+dimwishlist:item=1854753405&perks=2010801679,3300816228
+dimwishlist:item=1854753405&perks=2010801679,960810156
+dimwishlist:item=1854753405&perks=2010801679,4104185692
+
+
+// Truthteller - Truthteller (pve)
+//notes: (D) Lightweight / Void / Energy utility [3.5] tags:pve
+dimwishlist:item=1946491241&perks=2869569095,3523296417
+dimwishlist:item=1946491241&perks=3300816228,3523296417
+
+
+// Luna Regolith III - Luna Regolith III (pve)
+//notes: (A) Aggressive / Solar / Energy [8.5] tags:pve
+dimwishlist:item=1948035256&perks=2869569095,2319119708
+dimwishlist:item=1948035256&perks=2869569095,1771339417
+dimwishlist:item=1948035256&perks=2869569095,3751912585
+dimwishlist:item=1948035256&perks=3400784728,2319119708
+dimwishlist:item=1948035256&perks=3400784728,1771339417
+dimwishlist:item=1948035256&perks=3400784728,3751912585
+dimwishlist:item=1948035256&perks=2284787283,2319119708
+dimwishlist:item=1948035256&perks=2284787283,1771339417
+dimwishlist:item=1948035256&perks=2284787283,3751912585
+dimwishlist:item=1948035256&perks=3700496672,2319119708
+dimwishlist:item=1948035256&perks=3700496672,1771339417
+dimwishlist:item=1948035256&perks=3700496672,3751912585
+
+
+// Praedyth's Revenge (Timelost) - Praedyth's Revenge (Timelost) (pve)
+//notes: (B) Rapid / Kinetic / Kinetic [7] tags:pve
+dimwishlist:item=1987769101&perks=3418782618,2213355989
+dimwishlist:item=1987769101&perks=3418782618,4104185692
+
+
+// Likely Suspect - Likely Suspect (pve)
+//notes: (D) Rapid / Void / Energy damage [0.5] tags:pve
+dimwishlist:item=1994645182&perks=2039302152
+dimwishlist:item=1994645182&perks=2396422520
+
+
+// Lingering Dread - Lingering Dread (pve)
+//notes: (B) Lightweight / Stasis / Kinetic utility [7] tags:pve
+dimwishlist:item=2026087437&perks=3300816228,2978966579
+dimwishlist:item=2026087437&perks=3300816228,3523296417
+dimwishlist:item=2026087437&perks=3300816228,960810156
+dimwishlist:item=2026087437&perks=3300816228,1546637391
+dimwishlist:item=2026087437&perks=2010801679,2978966579
+dimwishlist:item=2026087437&perks=2010801679,3523296417
+dimwishlist:item=2026087437&perks=2010801679,960810156
+dimwishlist:item=2026087437&perks=2010801679,1546637391
+
+
+// Salvager's Salvo - Salvager's Salvo (pve)
+//notes: (B) Lightweight / Arc / Energy splash, Energy damage [7] tags:pve
+dimwishlist:item=2060863616&perks=3523296417,1546637391
+dimwishlist:item=2060863616&perks=3523296417,2396489472
+dimwishlist:item=2060863616&perks=2010801679,1546637391
+dimwishlist:item=2060863616&perks=2010801679,2396489472
+
+
+// Uzume RR4 - Uzume RR4 (pve)
+//notes: (C) Adaptive / Solar / Energy [4] tags:pve
+dimwishlist:item=2065081837&perks=3400784728,1546637391
+dimwishlist:item=2065081837&perks=1556840489,1546637391
+dimwishlist:item=2065081837&perks=2284787283,1546637391
+
+
+// Mercurial Overreach - Mercurial Overreach (pve)
+//notes: (D) Adaptive / Arc / Energy [1] tags:pve
+dimwishlist:item=2073794990&perks=1546637391
+
+
+// Mindbender's Ambition (Adept) - Mindbender's Ambition (Adept) (pve)
+//notes: (B) Aggressive / Solar / Energy swap [7] tags:pve
+dimwishlist:item=2074041946&perks=3436462433,2679249093
+dimwishlist:item=2074041946&perks=3436462433,1546637391
+dimwishlist:item=2074041946&perks=4071163871,2679249093
+dimwishlist:item=2074041946&perks=4071163871,1546637391
+
+
+// Orewing's Maul - Orewing's Maul (pve)
+//notes: (D) Lightweight / Void / Energy utility [3.5] tags:pve
+dimwishlist:item=2108920981&perks=2869569095,3300816228
+dimwishlist:item=2108920981&perks=2869569095,3523296417
+
+
+// Apostate - Apostate (pve)
+//notes: (D) Rapid / Arc / Energy [3] tags:pve
+dimwishlist:item=2164448701&perks=1556840489
+
+
+// Zealot's Reward - Zealot's Reward (pve)
+//notes: (C) Rapid / Void / Energy damage [3.5] tags:pve
+dimwishlist:item=2209003210&perks=3300816228,2213355989
+
+
+// Fugue-55 - Fugue-55 (pve)
+//notes: (B) Adaptive / Void / Energy [6.5] tags:pve
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+dimwishlist:item=2233545123&perks=1354429876,2896038713
+dimwishlist:item=2233545123&perks=1354429876,1546637391
+dimwishlist:item=2233545123&perks=1556840489,1771339417
+dimwishlist:item=2233545123&perks=1556840489,2896038713
+dimwishlist:item=2233545123&perks=1556840489,1546637391
+dimwishlist:item=2233545123&perks=3300816228,1771339417
+dimwishlist:item=2233545123&perks=3300816228,2896038713
+dimwishlist:item=2233545123&perks=3300816228,1546637391
+
+
+// The Epicurean - The Epicurean (pve)
+//notes: (D) Precision / Void / Energy damage [0.5] tags:pve
+dimwishlist:item=2263839058&perks=1799762209
+dimwishlist:item=2263839058&perks=1008128453
+
+
+// IKELOS_SR_v1.0.3 - IKELOS_SR_V1.0.3 (pve)
+//notes: (A) Rapid / Solar / Energy [8.5] tags:pve
+dimwishlist:item=2302346155&perks=3643424744,2896038713
+dimwishlist:item=2302346155&perks=3643424744,2213355989
+dimwishlist:item=2302346155&perks=3643424744,2402480669
+dimwishlist:item=2302346155&perks=3643424744,2002547233
+dimwishlist:item=2302346155&perks=1354429876,2896038713
+dimwishlist:item=2302346155&perks=1354429876,2213355989
+dimwishlist:item=2302346155&perks=1354429876,2402480669
+dimwishlist:item=2302346155&perks=1354429876,2002547233
+dimwishlist:item=2302346155&perks=848860060,2896038713
+dimwishlist:item=2302346155&perks=848860060,2213355989
+dimwishlist:item=2302346155&perks=848860060,2402480669
+dimwishlist:item=2302346155&perks=848860060,2002547233
+dimwishlist:item=2302346155&perks=2682205016,2896038713
+dimwishlist:item=2302346155&perks=2682205016,2213355989
+dimwishlist:item=2302346155&perks=2682205016,2402480669
+dimwishlist:item=2302346155&perks=2682205016,2002547233
+
+
+// Wilderflight - Wilderflight (pve)
+//notes: (S) Double Fire / Void / Energy utility, Energy damage [8.5] tags:pve
+dimwishlist:item=2306182339&perks=3300816228,1556840489
+dimwishlist:item=2306182339&perks=3300816228,4104185692
+dimwishlist:item=2306182339&perks=3300816228,1546637391
+dimwishlist:item=2306182339&perks=3523296417,1556840489
+dimwishlist:item=2306182339&perks=3523296417,4104185692
+dimwishlist:item=2306182339&perks=3523296417,1546637391
+dimwishlist:item=2306182339&perks=776531651,1556840489
+dimwishlist:item=2306182339&perks=776531651,4104185692
+dimwishlist:item=2306182339&perks=776531651,1546637391
+dimwishlist:item=2306182339&perks=960810156,1556840489
+dimwishlist:item=2306182339&perks=960810156,4104185692
+dimwishlist:item=2306182339&perks=960810156,1546637391
+
+
+// The Comedian (Adept) - The Comedian (Adept) (pve)
+//notes: (A) Aggressive / Void / Energy swap [8] tags:pve
+dimwishlist:item=2443900757&perks=2621346526,2360754333
+dimwishlist:item=2443900757&perks=2621346526,1546637391
+dimwishlist:item=2443900757&perks=1556840489,2360754333
+dimwishlist:item=2443900757&perks=1556840489,1546637391
+
+
+// Cartesian Coordinate - Cartesian Coordinate (pve)
+//notes: (A) Rapid / Solar / Energy damage [5.5] tags:pve
+dimwishlist:item=2481881293&perks=1556840489,1546637391
+dimwishlist:item=2481881293&perks=1556840489,2213355989
+dimwishlist:item=2481881293&perks=2039302152,1546637391
+dimwishlist:item=2481881293&perks=2039302152,2213355989
+
+
+// No Reprieve - No Reprieve (pve)
+//notes: (C) Slug / Stasis / Kinetic swap [5] tags:pve
+dimwishlist:item=2531963421&perks=3436462433,3708227201
+dimwishlist:item=2531963421&perks=3436462433,2896038713
+dimwishlist:item=2531963421&perks=3436462433,781192741
+dimwishlist:item=2531963421&perks=3436462433,2402480669
+dimwishlist:item=2531963421&perks=3400784728,3708227201
+dimwishlist:item=2531963421&perks=3400784728,2896038713
+dimwishlist:item=2531963421&perks=3400784728,781192741
+dimwishlist:item=2531963421&perks=3400784728,2402480669
+dimwishlist:item=2531963421&perks=2658083589,3708227201
+dimwishlist:item=2531963421&perks=2658083589,2896038713
+dimwishlist:item=2531963421&perks=2658083589,781192741
+dimwishlist:item=2531963421&perks=2658083589,2402480669
+dimwishlist:item=2531963421&perks=573122728,3708227201
+dimwishlist:item=2531963421&perks=573122728,2896038713
+dimwishlist:item=2531963421&perks=573122728,781192741
+dimwishlist:item=2531963421&perks=573122728,2402480669
+
+
+// Matador 64 - Matador 64 (pve)
+//notes: (D) Precision / Arc / Energy utility [1.5] tags:pve
+dimwishlist:item=2563012876&perks=4071163871,2679249093
+dimwishlist:item=2563012876&perks=1556840489,2679249093
+
+
+// Basso Ostinato - Basso Ostinato (pve)
+//notes: (A) Rapid / Void / Energy utility [8.5] tags:pve
+dimwishlist:item=2573900604&perks=1556840489,2360754333
+dimwishlist:item=2573900604&perks=1556840489,2679249093
+dimwishlist:item=2573900604&perks=1631667848,2360754333
+dimwishlist:item=2573900604&perks=1631667848,2679249093
+dimwishlist:item=2573900604&perks=968510818,2360754333
+dimwishlist:item=2573900604&perks=968510818,2679249093
+
+
+// Compass Rose - Compass Rose (pve)
+//notes: (C) Precision / Solar / Energy utility [5] tags:pve
+dimwishlist:item=2591111628&perks=706527188,2360754333
+dimwishlist:item=2591111628&perks=706527188,1546637391
+dimwishlist:item=2591111628&perks=3436462433,2360754333
+dimwishlist:item=2591111628&perks=3436462433,1546637391
+dimwishlist:item=2591111628&perks=1556840489,2360754333
+dimwishlist:item=2591111628&perks=1556840489,1546637391
+
+
+// The Inquisitor - The Inquisitor (pve)
+//notes: (D) Slug / Arc / Energy swap [0.5] tags:pve
+dimwishlist:item=2653171212&perks=1354429876
+
+
+// Astral Horizon - Astral Horizon (pve)
+//notes: (B) Aggressive / Kinetic / Kinetic swap [7] tags:pve
+dimwishlist:item=2653171213&perks=3436462433,2679249093
+dimwishlist:item=2653171213&perks=3436462433,1546637391
+dimwishlist:item=2653171213&perks=3436462433,3751912585
+dimwishlist:item=2653171213&perks=4071163871,2679249093
+dimwishlist:item=2653171213&perks=4071163871,1546637391
+dimwishlist:item=2653171213&perks=4071163871,3751912585
+
+
+// Irukandji - Irukandji (pve)
+//notes: (S) Rapid / Stasis / Kinetic [9.5] tags:pve
+dimwishlist:item=2673925403&perks=1354429876,1771339417,3988215619
+dimwishlist:item=2673925403&perks=1354429876,2896038713,3988215619
+dimwishlist:item=2673925403&perks=968510818,1771339417,3988215619
+dimwishlist:item=2673925403&perks=968510818,2896038713,3988215619
+dimwishlist:item=2673925403&perks=3700496672,1771339417,3988215619
+dimwishlist:item=2673925403&perks=3700496672,2896038713,3988215619
+
+
+// Riptide - Riptide (pve)
+//notes: (S) Rapid / Stasis / Kinetic damage, Kinetic utility [8] tags:pve
+dimwishlist:item=2715240478&perks=1556840489,2978966579
+dimwishlist:item=2715240478&perks=1556840489,3523296417
+dimwishlist:item=2715240478&perks=1556840489,4104185692
+dimwishlist:item=2715240478&perks=1556840489,1799762209
+dimwishlist:item=2715240478&perks=1556840489,1546637391
+dimwishlist:item=2715240478&perks=2869569095,2978966579
+dimwishlist:item=2715240478&perks=2869569095,3523296417
+dimwishlist:item=2715240478&perks=2869569095,4104185692
+dimwishlist:item=2715240478&perks=2869569095,1799762209
+dimwishlist:item=2715240478&perks=2869569095,1546637391
+dimwishlist:item=2715240478&perks=3300816228,2978966579
+dimwishlist:item=2715240478&perks=3300816228,3523296417
+dimwishlist:item=2715240478&perks=3300816228,4104185692
+dimwishlist:item=2715240478&perks=3300816228,1799762209
+dimwishlist:item=2715240478&perks=3300816228,1546637391
+
+
+// Nox Perennial V - Nox Perennial V (pve)
+//notes: (A) High-Impact / Strand / Kinetic damage [7.5] tags:pve
+dimwishlist:item=2767393525&perks=1556840489,2594592626
+dimwishlist:item=2767393525&perks=968510818,2594592626
+
+
+// Blasphemer - Blasphemer (pve)
+//notes: (D) Slug / Kinetic / Kinetic swap [2] tags:pve
+dimwishlist:item=2782847179&perks=706527188
+dimwishlist:item=2782847179&perks=4071163871
+dimwishlist:item=2782847179&perks=3436462433
+dimwishlist:item=2782847179&perks=1354429876
+
+
+// Distant Tumulus - Distant Tumulus (pve)
+//notes: (S) Rapid / Solar / Energy [9.5] tags:pve
+dimwishlist:item=2807687156&perks=1556840489,1771339417
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+
+
+// Fortissimo-11 - Fortissimo-11 (pve)
+//notes: (A) Slug / Kinetic / Kinetic utility, Kinetic swap [8.5] tags:pve
+dimwishlist:item=2821430069&perks=3436462433,2896038713
+dimwishlist:item=2821430069&perks=3436462433,4104185692
+dimwishlist:item=2821430069&perks=3436462433,3708227201
+dimwishlist:item=2821430069&perks=3436462433,1546637391
+dimwishlist:item=2821430069&perks=4071163871,2896038713
+dimwishlist:item=2821430069&perks=4071163871,4104185692
+dimwishlist:item=2821430069&perks=4071163871,3708227201
+dimwishlist:item=2821430069&perks=4071163871,1546637391
+dimwishlist:item=2821430069&perks=1556840489,2896038713
+dimwishlist:item=2821430069&perks=1556840489,4104185692
+dimwishlist:item=2821430069&perks=1556840489,3708227201
+dimwishlist:item=2821430069&perks=1556840489,1546637391
+dimwishlist:item=2821430069&perks=1354429876,2896038713
+dimwishlist:item=2821430069&perks=1354429876,4104185692
+dimwishlist:item=2821430069&perks=1354429876,3708227201
+dimwishlist:item=2821430069&perks=1354429876,1546637391
+
+
+// A Sudden Death - A Sudden Death (pve)
+//notes: (B) Aggressive / Arc / Energy swap [7] tags:pve
+dimwishlist:item=2855157553&perks=4071163871,4104185692
+dimwishlist:item=2855157553&perks=4071163871,2679249093
+dimwishlist:item=2855157553&perks=4071163871,3708227201
+dimwishlist:item=2855157553&perks=2869569095,4104185692
+dimwishlist:item=2855157553&perks=2869569095,2679249093
+dimwishlist:item=2855157553&perks=2869569095,3708227201
+dimwishlist:item=2855157553&perks=1631667848,4104185692
+dimwishlist:item=2855157553&perks=1631667848,2679249093
+dimwishlist:item=2855157553&perks=1631667848,3708227201
+dimwishlist:item=2855157553&perks=3436462433,4104185692
+dimwishlist:item=2855157553&perks=3436462433,2679249093
+dimwishlist:item=2855157553&perks=3436462433,3708227201
+
+
+// Until Its Return - Until Its Return (pve)
+//notes: (S) Rapid / Strand / Kinetic utility [10.5] tags:pve
+dimwishlist:item=2883484461&perks=2621346526,2360754333
+dimwishlist:item=2883484461&perks=2621346526,3751912585
+dimwishlist:item=2883484461&perks=2621346526,3708227201
+dimwishlist:item=2883484461&perks=2621346526,1546637391
+dimwishlist:item=2883484461&perks=2621346526,2459015849
+dimwishlist:item=2883484461&perks=2621346526,331667533
+dimwishlist:item=2883484461&perks=2621346526,781192741
+dimwishlist:item=2883484461&perks=2621346526,3418165135
+dimwishlist:item=2883484461&perks=4071163871,2360754333
+dimwishlist:item=2883484461&perks=4071163871,3751912585
+dimwishlist:item=2883484461&perks=4071163871,3708227201
+dimwishlist:item=2883484461&perks=4071163871,1546637391
+dimwishlist:item=2883484461&perks=4071163871,2459015849
+dimwishlist:item=2883484461&perks=4071163871,331667533
+dimwishlist:item=2883484461&perks=4071163871,781192741
+dimwishlist:item=2883484461&perks=4071163871,3418165135
+dimwishlist:item=2883484461&perks=3300816228,2360754333
+dimwishlist:item=2883484461&perks=3300816228,3751912585
+dimwishlist:item=2883484461&perks=3300816228,3708227201
+dimwishlist:item=2883484461&perks=3300816228,1546637391
+dimwishlist:item=2883484461&perks=3300816228,2459015849
+dimwishlist:item=2883484461&perks=3300816228,331667533
+dimwishlist:item=2883484461&perks=3300816228,781192741
+dimwishlist:item=2883484461&perks=3300816228,3418165135
+dimwishlist:item=2883484461&perks=2495011826,2360754333
+dimwishlist:item=2883484461&perks=2495011826,3751912585
+dimwishlist:item=2883484461&perks=2495011826,3708227201
+dimwishlist:item=2883484461&perks=2495011826,1546637391
+dimwishlist:item=2883484461&perks=2495011826,2459015849
+dimwishlist:item=2883484461&perks=2495011826,331667533
+dimwishlist:item=2883484461&perks=2495011826,781192741
+dimwishlist:item=2883484461&perks=2495011826,3418165135
+dimwishlist:item=2883484461&perks=494941759,2360754333
+dimwishlist:item=2883484461&perks=494941759,3751912585
+dimwishlist:item=2883484461&perks=494941759,3708227201
+dimwishlist:item=2883484461&perks=494941759,1546637391
+dimwishlist:item=2883484461&perks=494941759,2459015849
+dimwishlist:item=2883484461&perks=494941759,331667533
+dimwishlist:item=2883484461&perks=494941759,781192741
+dimwishlist:item=2883484461&perks=494941759,3418165135
+dimwishlist:item=2883484461&perks=3528046508,2360754333
+dimwishlist:item=2883484461&perks=3528046508,3751912585
+dimwishlist:item=2883484461&perks=3528046508,3708227201
+dimwishlist:item=2883484461&perks=3528046508,1546637391
+dimwishlist:item=2883484461&perks=3528046508,2459015849
+dimwishlist:item=2883484461&perks=3528046508,331667533
+dimwishlist:item=2883484461&perks=3528046508,781192741
+dimwishlist:item=2883484461&perks=3528046508,3418165135
+
+
+// Xenoclast IV - Xenoclast IV (pve)
+//notes: (S) Lightweight / Arc / Energy utility [11] tags:pve
+dimwishlist:item=2891672170&perks=3436462433,2679249093
+dimwishlist:item=2891672170&perks=3436462433,2360754333
+dimwishlist:item=2891672170&perks=3436462433,1546637391
+dimwishlist:item=2891672170&perks=3436462433,3708227201
+dimwishlist:item=2891672170&perks=1556840489,2679249093
+dimwishlist:item=2891672170&perks=1556840489,2360754333
+dimwishlist:item=2891672170&perks=1556840489,1546637391
+dimwishlist:item=2891672170&perks=1556840489,3708227201
+dimwishlist:item=2891672170&perks=2869569095,2679249093
+dimwishlist:item=2891672170&perks=2869569095,2360754333
+dimwishlist:item=2891672170&perks=2869569095,1546637391
+dimwishlist:item=2891672170&perks=2869569095,3708227201
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+dimwishlist:item=2891672170&perks=1631667848,2360754333
+dimwishlist:item=2891672170&perks=1631667848,1546637391
+dimwishlist:item=2891672170&perks=1631667848,3708227201
+dimwishlist:item=2891672170&perks=3300816228,2679249093
+dimwishlist:item=2891672170&perks=3300816228,2360754333
+dimwishlist:item=2891672170&perks=3300816228,1546637391
+dimwishlist:item=2891672170&perks=3300816228,3708227201
+
+
+// Loaded Question (Adept) - Loaded Question (Adept) (pve)
+//notes: (S) High-Impact / Arc / Energy damage, Energy utility [9] tags:pve
+dimwishlist:item=2914913838&perks=3643424744,2594592626
+dimwishlist:item=2914913838&perks=3643424744,1427256713
+dimwishlist:item=2914913838&perks=3643424744,4104185692
+dimwishlist:item=2914913838&perks=3300816228,2594592626
+dimwishlist:item=2914913838&perks=3300816228,1427256713
+dimwishlist:item=2914913838&perks=3300816228,4104185692
+dimwishlist:item=2914913838&perks=968510818,2594592626
+dimwishlist:item=2914913838&perks=968510818,1427256713
+dimwishlist:item=2914913838&perks=968510818,4104185692
+dimwishlist:item=2914913838&perks=3523296417,2594592626
+dimwishlist:item=2914913838&perks=3523296417,1427256713
+dimwishlist:item=2914913838&perks=3523296417,4104185692
+
+
+// Dream Breaker - Dream Breaker (pve)
+//notes: (B) Adaptive / Solar / Energy damage [5] tags:pve
+dimwishlist:item=2931957300&perks=1556840489,2213355989
+dimwishlist:item=2931957300&perks=1556840489,4104185692
+dimwishlist:item=2931957300&perks=1556840489,3708227201
+dimwishlist:item=2931957300&perks=1556840489,1799762209
+dimwishlist:item=2931957300&perks=2039302152,2213355989
+dimwishlist:item=2931957300&perks=2039302152,4104185692
+dimwishlist:item=2931957300&perks=2039302152,3708227201
+dimwishlist:item=2931957300&perks=2039302152,1799762209
+
+
+// Deliverance (Adept) - Deliverance (Adept) (pve)
+//notes: (B) Precision / Stasis / Kinetic utility, Kinetic damage [4] tags:pve
+dimwishlist:item=2943293195&perks=1799762209,2978966579
+dimwishlist:item=2943293195&perks=1799762209,3708227201
+dimwishlist:item=2943293195&perks=1799762209,3078487919
+dimwishlist:item=2943293195&perks=1799762209,3744057135
+dimwishlist:item=2943293195&perks=1799762209,781192741
+dimwishlist:item=2943293195&perks=1799762209,344235611
+dimwishlist:item=2943293195&perks=3523296417,2978966579
+dimwishlist:item=2943293195&perks=3523296417,3708227201
+dimwishlist:item=2943293195&perks=3523296417,3078487919
+dimwishlist:item=2943293195&perks=3523296417,3744057135
+dimwishlist:item=2943293195&perks=3523296417,781192741
+dimwishlist:item=2943293195&perks=3523296417,344235611
+dimwishlist:item=2943293195&perks=1008128453,2978966579
+dimwishlist:item=2943293195&perks=1008128453,3708227201
+dimwishlist:item=2943293195&perks=1008128453,3078487919
+dimwishlist:item=2943293195&perks=1008128453,3744057135
+dimwishlist:item=2943293195&perks=1008128453,781192741
+dimwishlist:item=2943293195&perks=1008128453,344235611
+dimwishlist:item=2943293195&perks=1906147653,2978966579
+dimwishlist:item=2943293195&perks=1906147653,3708227201
+dimwishlist:item=2943293195&perks=1906147653,3078487919
+dimwishlist:item=2943293195&perks=1906147653,3744057135
+dimwishlist:item=2943293195&perks=1906147653,781192741
+dimwishlist:item=2943293195&perks=1906147653,344235611
+
+
+// Toil and Trouble - Toil and Trouble (pve)
+//notes: (D) Aggressive / Kinetic / Kinetic swap [3] tags:pve
+dimwishlist:item=2957367743&perks=4071163871
+dimwishlist:item=2957367743&perks=2869569095
+
+
+// Succession - Succession (pve)
+//notes: (S) Aggressive / Kinetic / Kinetic [10] tags:pve
+dimwishlist:item=2990047042&perks=1556840489,1771339417
+dimwishlist:item=2990047042&perks=1556840489,469285294
+dimwishlist:item=2990047042&perks=1556840489,2896038713
+dimwishlist:item=2990047042&perks=1556840489,1546637391
+dimwishlist:item=2990047042&perks=1556840489,395388285
+dimwishlist:item=2990047042&perks=1556840489,3335686050
+dimwishlist:item=2990047042&perks=1556840489,3418165135
+dimwishlist:item=2990047042&perks=1556840489,2402480669
+dimwishlist:item=2990047042&perks=1523832109,1771339417
+dimwishlist:item=2990047042&perks=1523832109,469285294
+dimwishlist:item=2990047042&perks=1523832109,2896038713
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,395388285
+dimwishlist:item=2990047042&perks=1523832109,3335686050
+dimwishlist:item=2990047042&perks=1523832109,3418165135
+dimwishlist:item=2990047042&perks=1523832109,2402480669
+dimwishlist:item=2990047042&perks=3442762221,1771339417
+dimwishlist:item=2990047042&perks=3442762221,469285294
+dimwishlist:item=2990047042&perks=3442762221,2896038713
+dimwishlist:item=2990047042&perks=3442762221,1546637391
+dimwishlist:item=2990047042&perks=3442762221,395388285
+dimwishlist:item=2990047042&perks=3442762221,3335686050
+dimwishlist:item=2990047042&perks=3442762221,3418165135
+dimwishlist:item=2990047042&perks=3442762221,2402480669
+dimwishlist:item=2990047042&perks=461595545,1771339417
+dimwishlist:item=2990047042&perks=461595545,469285294
+dimwishlist:item=2990047042&perks=461595545,2896038713
+dimwishlist:item=2990047042&perks=461595545,1546637391
+dimwishlist:item=2990047042&perks=461595545,395388285
+dimwishlist:item=2990047042&perks=461595545,3335686050
+dimwishlist:item=2990047042&perks=461595545,3418165135
+dimwishlist:item=2990047042&perks=461595545,2402480669
+
+
+// Iota Draconis - Iota Draconis (pve)
+//notes: (B) High-Impact / Solar / Energy damage [4] tags:pve
+dimwishlist:item=3044460004&perks=1556840489,1799762209
+dimwishlist:item=3044460004&perks=1556840489,4104185692
+dimwishlist:item=3044460004&perks=1556840489,2213355989
+
+
+// Timelines' Vertex - Timelines' Vertex (pve)
+//notes: (C) Adaptive / Solar / Energy damage [2.5] tags:pve
+dimwishlist:item=3055192515&perks=1556840489,3523296417
+dimwishlist:item=3055192515&perks=2869569095,3523296417
+dimwishlist:item=3055192515&perks=3300816228,3523296417
+
+
+// Beloved - Beloved (pve)
+//notes: (D) Adaptive / Solar / Energy [2] tags:pve
+dimwishlist:item=3107853529&perks=1354429876
+dimwishlist:item=3107853529&perks=848860060
+
+
+// Loaded Question - Loaded Question (pve)
+//notes: (S) High-Impact / Arc / Energy damage, Energy utility [9] tags:pve
+dimwishlist:item=3125454907&perks=3300816228,1427256713
+dimwishlist:item=3125454907&perks=3300816228,2594592626
+dimwishlist:item=3125454907&perks=3300816228,4104185692
+dimwishlist:item=3125454907&perks=3643424744,1427256713
+dimwishlist:item=3125454907&perks=3643424744,2594592626
+dimwishlist:item=3125454907&perks=3643424744,4104185692
+dimwishlist:item=3125454907&perks=968510818,1427256713
+dimwishlist:item=3125454907&perks=968510818,2594592626
+dimwishlist:item=3125454907&perks=968510818,4104185692
+dimwishlist:item=3125454907&perks=3523296417,1427256713
+dimwishlist:item=3125454907&perks=3523296417,2594592626
+dimwishlist:item=3125454907&perks=3523296417,4104185692
+
+
+// Swordbreaker - Swordbreaker (pve)
+//notes: (C) Lightweight / Strand / Energy utility [5.5] tags:pve
+dimwishlist:item=3163900678&perks=4071163871,3708227201
+dimwishlist:item=3163900678&perks=4071163871,781192741
+dimwishlist:item=3163900678&perks=4071163871,2679249093
+dimwishlist:item=3163900678&perks=4071163871,788178929
+dimwishlist:item=3163900678&perks=494941759,3708227201
+dimwishlist:item=3163900678&perks=494941759,781192741
+dimwishlist:item=3163900678&perks=494941759,2679249093
+dimwishlist:item=3163900678&perks=494941759,788178929
+
+
+// Eye of Sol - Eye of Sol (pve)
+//notes: (D) Adaptive / Kinetic / Kinetic [2] tags:pve
+dimwishlist:item=3164743584&perks=1546637391
+dimwishlist:item=3164743584&perks=2213355989
+dimwishlist:item=3164743584&perks=2896038713
+
+
+// Fractethyst - Fractethyst (pve)
+//notes: (D) Precision / Stasis / Kinetic utility [1.5] tags:pve
+dimwishlist:item=3184681056&perks=706527188,2360754333
+dimwishlist:item=3184681056&perks=2621346526,2360754333
+dimwishlist:item=3184681056&perks=1556840489,2360754333
+
+
+// Found Verdict - Found Verdict (pve)
+//notes: (C) Aggressive / Arc / Energy swap [6.5] tags:pve
+dimwishlist:item=3197270240&perks=3436462433,2679249093
+dimwishlist:item=3197270240&perks=3436462433,4104185692
+dimwishlist:item=3197270240&perks=3436462433,1546637391
+dimwishlist:item=3197270240&perks=3418782618,2679249093
+dimwishlist:item=3197270240&perks=3418782618,4104185692
+dimwishlist:item=3197270240&perks=3418782618,1546637391
+dimwishlist:item=3197270240&perks=3300816228,2679249093
+dimwishlist:item=3197270240&perks=3300816228,4104185692
+dimwishlist:item=3197270240&perks=3300816228,1546637391
+
+
+// Reckless Endangerment - Reckless Endangerment (pve)
+//notes: (D) Lightweight / Kinetic / Kinetic swap [2] tags:pve
+dimwishlist:item=3216652511&perks=
+
+
+// Defiance of Yasmin - Defiance of Yasmin (pve)
+//notes: (C) Adaptive / Kinetic / Kinetic [6] tags:pve
+dimwishlist:item=3228096719&perks=1556840489,1771339417,120721526
+dimwishlist:item=3228096719&perks=1556840489,1546637391,120721526
+dimwishlist:item=3228096719&perks=1556840489,395388285,120721526
+dimwishlist:item=3228096719&perks=1556840489,3418165135,120721526
+dimwishlist:item=3228096719&perks=1556840489,2896038713,120721526
+dimwishlist:item=3228096719&perks=1556840489,2402480669,120721526
+dimwishlist:item=3228096719&perks=3700496672,1771339417,120721526
+dimwishlist:item=3228096719&perks=3700496672,1546637391,120721526
+dimwishlist:item=3228096719&perks=3700496672,395388285,120721526
+dimwishlist:item=3228096719&perks=3700496672,3418165135,120721526
+dimwishlist:item=3228096719&perks=3700496672,2896038713,120721526
+dimwishlist:item=3228096719&perks=3700496672,2402480669,120721526
+dimwishlist:item=3228096719&perks=3442762221,1771339417,120721526
+dimwishlist:item=3228096719&perks=3442762221,1546637391,120721526
+dimwishlist:item=3228096719&perks=3442762221,395388285,120721526
+dimwishlist:item=3228096719&perks=3442762221,3418165135,120721526
+dimwishlist:item=3228096719&perks=3442762221,2896038713,120721526
+dimwishlist:item=3228096719&perks=3442762221,2402480669,120721526
+dimwishlist:item=3228096719&perks=2840833776,1771339417,120721526
+dimwishlist:item=3228096719&perks=2840833776,1546637391,120721526
+dimwishlist:item=3228096719&perks=2840833776,395388285,120721526
+dimwishlist:item=3228096719&perks=2840833776,3418165135,120721526
+dimwishlist:item=3228096719&perks=2840833776,2896038713,120721526
+dimwishlist:item=3228096719&perks=2840833776,2402480669,120721526
+
+
+// Trinary System - Trinary System (pve)
+//notes: (C) Adaptive / Solar / Energy damage [3] tags:pve
+dimwishlist:item=3258665412&perks=3300816228,3523296417
+dimwishlist:item=3258665412&perks=3300816228,2213355989
+dimwishlist:item=3258665412&perks=2039302152,3523296417
+dimwishlist:item=3258665412&perks=2039302152,2213355989
+dimwishlist:item=3258665412&perks=3161816588,3523296417
+dimwishlist:item=3258665412&perks=3161816588,2213355989
+
+
+// Twilight Oath - Twilight Oath (pve)
+//notes: (B) Rapid / Solar / Energy [7] tags:pve
+dimwishlist:item=3297863558&perks=1556840489,1546637391
+
+
+// The Long Walk - The Long Walk (pve)
+//notes: (B) Aggressive / Solar / Energy [7] tags:pve
+dimwishlist:item=3326850591&perks=3643424744,1771339417
+dimwishlist:item=3326850591&perks=3643424744,4104185692
+dimwishlist:item=3326850591&perks=2284787283,1771339417
+dimwishlist:item=3326850591&perks=2284787283,4104185692
+
+
+// The Eremite - The Eremite (pve)
+//notes: (S) High-Impact / Solar / Energy damage, Energy utility [9.5] tags:pve
+dimwishlist:item=3347946548&perks=1556840489,1799762209
+dimwishlist:item=3347946548&perks=1556840489,2594592626
+dimwishlist:item=3347946548&perks=1556840489,1427256713
+dimwishlist:item=3347946548&perks=1556840489,1008128453
+dimwishlist:item=3347946548&perks=1556840489,2037312142
+dimwishlist:item=3347946548&perks=1556840489,254337357
+dimwishlist:item=3347946548&perks=968510818,1799762209
+dimwishlist:item=3347946548&perks=968510818,2594592626
+dimwishlist:item=3347946548&perks=968510818,1427256713
+dimwishlist:item=3347946548&perks=968510818,1008128453
+dimwishlist:item=3347946548&perks=968510818,2037312142
+dimwishlist:item=3347946548&perks=968510818,254337357
+dimwishlist:item=3347946548&perks=3442762221,1799762209
+dimwishlist:item=3347946548&perks=3442762221,2594592626
+dimwishlist:item=3347946548&perks=3442762221,1427256713
+dimwishlist:item=3347946548&perks=3442762221,1008128453
+dimwishlist:item=3347946548&perks=3442762221,2037312142
+dimwishlist:item=3347946548&perks=3442762221,254337357
+dimwishlist:item=3347946548&perks=424370782,1799762209
+dimwishlist:item=3347946548&perks=424370782,2594592626
+dimwishlist:item=3347946548&perks=424370782,1427256713
+dimwishlist:item=3347946548&perks=424370782,1008128453
+dimwishlist:item=3347946548&perks=424370782,2037312142
+dimwishlist:item=3347946548&perks=424370782,254337357
+
+
+// Silicon Neuroma - Silicon Neuroma (pve)
+//notes: (B) Aggressive / Kinetic / Kinetic [7] tags:pve
+dimwishlist:item=3355385170&perks=3400784728,1771339417
+dimwishlist:item=3355385170&perks=3400784728,4104185692
+dimwishlist:item=3355385170&perks=3400784728,2896038713
+
+
+// Wishbringer - Wishbringer (pve)
+//notes: (C) Rapid / Solar / Energy utility [5] tags:pve
+dimwishlist:item=3356526253&perks=4071163871
+dimwishlist:item=3356526253&perks=2869569095
+dimwishlist:item=3356526253&perks=1631667848
+
+
+// Omniscient Eye - Omniscient Eye (pve)
+//notes: (D) Rapid / Solar / Energy [3] tags:pve
+dimwishlist:item=3454326177&perks=
+
+
+// Frozen Orbit - Frozen Orbit (pve)
+//notes: (B) Aggressive / Void / Energy [6.5] tags:pve
+dimwishlist:item=3473290087&perks=3400784728,2213355989
+dimwishlist:item=3473290087&perks=3400784728,1546637391
+dimwishlist:item=3473290087&perks=1556840489,2213355989
+dimwishlist:item=3473290087&perks=1556840489,1546637391
+dimwishlist:item=3473290087&perks=3300816228,2213355989
+dimwishlist:item=3473290087&perks=3300816228,1546637391
+dimwishlist:item=3473290087&perks=2284787283,2213355989
+dimwishlist:item=3473290087&perks=2284787283,1546637391
+
+
+// Defiance of Yasmin (Harrowed) - Defiance of Yasmin (Harrowed) (pve)
+//notes: (C) Adaptive / Kinetic / Kinetic [6] tags:pve
+dimwishlist:item=3503019618&perks=1556840489,1771339417,120721526
+dimwishlist:item=3503019618&perks=1556840489,1546637391,120721526
+dimwishlist:item=3503019618&perks=1556840489,2896038713,120721526
+dimwishlist:item=3503019618&perks=1556840489,395388285,120721526
+dimwishlist:item=3503019618&perks=1556840489,3418165135,120721526
+dimwishlist:item=3503019618&perks=1556840489,2402480669,120721526
+dimwishlist:item=3503019618&perks=3700496672,1771339417,120721526
+dimwishlist:item=3503019618&perks=3700496672,1546637391,120721526
+dimwishlist:item=3503019618&perks=3700496672,2896038713,120721526
+dimwishlist:item=3503019618&perks=3700496672,395388285,120721526
+dimwishlist:item=3503019618&perks=3700496672,3418165135,120721526
+dimwishlist:item=3503019618&perks=3700496672,2402480669,120721526
+dimwishlist:item=3503019618&perks=2840833776,1771339417,120721526
+dimwishlist:item=3503019618&perks=2840833776,1546637391,120721526
+dimwishlist:item=3503019618&perks=2840833776,2896038713,120721526
+dimwishlist:item=3503019618&perks=2840833776,395388285,120721526
+dimwishlist:item=3503019618&perks=2840833776,3418165135,120721526
+dimwishlist:item=3503019618&perks=2840833776,2402480669,120721526
+dimwishlist:item=3503019618&perks=3442762221,1771339417,120721526
+dimwishlist:item=3503019618&perks=3442762221,1546637391,120721526
+dimwishlist:item=3503019618&perks=3442762221,2896038713,120721526
+dimwishlist:item=3503019618&perks=3442762221,395388285,120721526
+dimwishlist:item=3503019618&perks=3442762221,3418165135,120721526
+dimwishlist:item=3503019618&perks=3442762221,2402480669,120721526
+
+
+// Coriolis Force - Coriolis Force (pve)
+//notes: (D) Aggressive / Void / Energy damage [-0.5] tags:pve
+dimwishlist:item=3512349612&perks=2039302152
+
+
+// Glacioclasm - Glacioclasm (pve)
+//notes: (B) High-Impact / Void / Energy damage, Energy utility [4.5] tags:pve
+dimwishlist:item=3573686365&perks=3161816588,2213355989
+dimwishlist:item=3573686365&perks=3161816588,1427256713
+dimwishlist:item=3573686365&perks=1820235745,2213355989
+dimwishlist:item=3573686365&perks=1820235745,1427256713
+
+
+// First In, Last Out - First In, Last Out (pve)
+//notes: (C) Slug / Arc / Energy swap [5] tags:pve
+dimwishlist:item=3616586446&perks=3300816228,3708227201
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+
+// Eye of Sol (Adept) - Eye of Sol (Adept) (pve)
+//notes: (D) Adaptive / Kinetic / Kinetic [2] tags:pve
+dimwishlist:item=3637570176&perks=1546637391
+dimwishlist:item=3637570176&perks=2213355989
+dimwishlist:item=3637570176&perks=2896038713
+
+
+// Praedyth's Revenge - Praedyth's Revenge (pve)
+//notes: (B) Rapid / Kinetic / Kinetic [7] tags:pve
+dimwishlist:item=3653573172&perks=3418782618,4104185692
+dimwishlist:item=3653573172&perks=3418782618,2213355989
+
+
+// Dead Weight - Dead Weight (pve)
+//notes: (S) Rapid / Arc / Energy utility [11.5] tags:pve
+dimwishlist:item=3738678140&perks=2621346526,2360754333
+dimwishlist:item=3738678140&perks=2621346526,3708227201
+dimwishlist:item=3738678140&perks=2621346526,4104185692
+dimwishlist:item=3738678140&perks=2621346526,2679249093
+dimwishlist:item=3738678140&perks=2621346526,1546637391
+dimwishlist:item=3738678140&perks=3436462433,2360754333
+dimwishlist:item=3738678140&perks=3436462433,3708227201
+dimwishlist:item=3738678140&perks=3436462433,4104185692
+dimwishlist:item=3738678140&perks=3436462433,2679249093
+dimwishlist:item=3738678140&perks=3436462433,1546637391
+dimwishlist:item=3738678140&perks=2869569095,2360754333
+dimwishlist:item=3738678140&perks=2869569095,3708227201
+dimwishlist:item=3738678140&perks=2869569095,4104185692
+dimwishlist:item=3738678140&perks=2869569095,2679249093
+dimwishlist:item=3738678140&perks=2869569095,1546637391
+dimwishlist:item=3738678140&perks=1556840489,2360754333
+dimwishlist:item=3738678140&perks=1556840489,3708227201
+dimwishlist:item=3738678140&perks=1556840489,4104185692
+dimwishlist:item=3738678140&perks=1556840489,2679249093
+dimwishlist:item=3738678140&perks=1556840489,1546637391
+dimwishlist:item=3738678140&perks=1631667848,2360754333
+dimwishlist:item=3738678140&perks=1631667848,3708227201
+dimwishlist:item=3738678140&perks=1631667848,4104185692
+dimwishlist:item=3738678140&perks=1631667848,2679249093
+dimwishlist:item=3738678140&perks=1631667848,1546637391
+dimwishlist:item=3738678140&perks=3300816228,2360754333
+dimwishlist:item=3738678140&perks=3300816228,3708227201
+dimwishlist:item=3738678140&perks=3300816228,4104185692
+dimwishlist:item=3738678140&perks=3300816228,2679249093
+dimwishlist:item=3738678140&perks=3300816228,1546637391
+
+
+// Shepherd's Watch - Shepherd's Watch (pve)
+//notes: (C) Adaptive / Kinetic / Kinetic [5] tags:pve
+dimwishlist:item=3743729616&perks=1556840489,1771339417
+dimwishlist:item=3743729616&perks=1556840489,4104185692
+
+
+// Long Shadow - Long Shadow (pve)
+//notes: (D) Adaptive / Kinetic / Kinetic [2] tags:pve
+dimwishlist:item=3745990145&perks=2869569095,3400784728
+
+
+// Pardon Our Dust - Pardon Our Dust (pve)
+//notes: (C) Lightweight / Kinetic / Kinetic utility [5] tags:pve
+dimwishlist:item=3849810018&perks=3300816228,3523296417
+dimwishlist:item=3849810018&perks=3300816228,1546637391
+dimwishlist:item=3849810018&perks=3300816228,1906147653
+dimwishlist:item=3849810018&perks=3300816228,3418165135
+dimwishlist:item=3849810018&perks=2010801679,3523296417
+dimwishlist:item=3849810018&perks=2010801679,1546637391
+dimwishlist:item=3849810018&perks=2010801679,1906147653
+dimwishlist:item=3849810018&perks=2010801679,3418165135
+dimwishlist:item=3849810018&perks=3528046508,3523296417
+dimwishlist:item=3849810018&perks=3528046508,1546637391
+dimwishlist:item=3849810018&perks=3528046508,1906147653
+dimwishlist:item=3849810018&perks=3528046508,3418165135
+dimwishlist:item=3849810018&perks=3797647183,3523296417
+dimwishlist:item=3849810018&perks=3797647183,1546637391
+dimwishlist:item=3849810018&perks=3797647183,1906147653
+dimwishlist:item=3849810018&perks=3797647183,3418165135
+
+
+// Father's Sins - Father's Sins (pve)
+//notes: (A) Rapid / Void / Energy [7.5] tags:pve
+dimwishlist:item=3865728990&perks=1556840489,2896038713
+dimwishlist:item=3865728990&perks=1556840489,2402480669
+dimwishlist:item=3865728990&perks=3442762221,2896038713
+dimwishlist:item=3865728990&perks=3442762221,2402480669
+dimwishlist:item=3865728990&perks=2869569095,2896038713
+dimwishlist:item=3865728990&perks=2869569095,2402480669
+dimwishlist:item=3865728990&perks=2308090567,2896038713
+dimwishlist:item=3865728990&perks=2308090567,2402480669
+dimwishlist:item=3865728990&perks=3400784728,2896038713
+dimwishlist:item=3865728990&perks=3400784728,2402480669
+dimwishlist:item=3865728990&perks=573122728,2896038713
+dimwishlist:item=3865728990&perks=573122728,2402480669
+dimwishlist:item=3865728990&perks=3700496672,2896038713
+dimwishlist:item=3865728990&perks=3700496672,2402480669
+dimwishlist:item=3865728990&perks=2840833776,2896038713
+dimwishlist:item=3865728990&perks=2840833776,2402480669
+
+
+// Midha's Reckoning (Harrowed) - Midha's Reckoning (Harrowing) (pve)
+//notes: (A) High-Impact / Arc / Energy damage, Energy utility [6.5] tags:pve
+dimwishlist:item=3904516037&perks=2869569095,3708227201,120721526
+dimwishlist:item=3904516037&perks=2869569095,1546637391,120721526
+dimwishlist:item=3904516037&perks=2869569095,1427256713,120721526
+dimwishlist:item=3904516037&perks=2869569095,781192741,120721526
+dimwishlist:item=3904516037&perks=2869569095,3418165135,120721526
+dimwishlist:item=3904516037&perks=2869569095,254337357,120721526
+dimwishlist:item=3904516037&perks=1799762209,3708227201,120721526
+dimwishlist:item=3904516037&perks=1799762209,1546637391,120721526
+dimwishlist:item=3904516037&perks=1799762209,1427256713,120721526
+dimwishlist:item=3904516037&perks=1799762209,781192741,120721526
+dimwishlist:item=3904516037&perks=1799762209,3418165135,120721526
+dimwishlist:item=3904516037&perks=1799762209,254337357,120721526
+dimwishlist:item=3904516037&perks=1008128453,3708227201,120721526
+dimwishlist:item=3904516037&perks=1008128453,1546637391,120721526
+dimwishlist:item=3904516037&perks=1008128453,1427256713,120721526
+dimwishlist:item=3904516037&perks=1008128453,781192741,120721526
+dimwishlist:item=3904516037&perks=1008128453,3418165135,120721526
+dimwishlist:item=3904516037&perks=1008128453,254337357,120721526
+dimwishlist:item=3904516037&perks=2308090567,3708227201,120721526
+dimwishlist:item=3904516037&perks=2308090567,1546637391,120721526
+dimwishlist:item=3904516037&perks=2308090567,1427256713,120721526
+dimwishlist:item=3904516037&perks=2308090567,781192741,120721526
+dimwishlist:item=3904516037&perks=2308090567,3418165135,120721526
+dimwishlist:item=3904516037&perks=2308090567,254337357,120721526
+
+
+// Volta Bracket - Volta Bracket (pve)
+//notes: (A) Aggressive / Strand / Kinetic [8.5] tags:pve
+dimwishlist:item=3920310144&perks=3400784728,1771339417,164468655
+dimwishlist:item=3920310144&perks=3400784728,3751912585,164468655
+dimwishlist:item=3920310144&perks=3400784728,331667533,164468655
+dimwishlist:item=3920310144&perks=3400784728,395388285,164468655
+dimwishlist:item=3920310144&perks=968510818,1771339417,164468655
+dimwishlist:item=3920310144&perks=968510818,3751912585,164468655
+dimwishlist:item=3920310144&perks=968510818,331667533,164468655
+dimwishlist:item=3920310144&perks=968510818,395388285,164468655
+dimwishlist:item=3920310144&perks=3700496672,1771339417,164468655
+dimwishlist:item=3920310144&perks=3700496672,3751912585,164468655
+dimwishlist:item=3920310144&perks=3700496672,331667533,164468655
+dimwishlist:item=3920310144&perks=3700496672,395388285,164468655
+dimwishlist:item=3920310144&perks=2840833776,1771339417,164468655
+dimwishlist:item=3920310144&perks=2840833776,3751912585,164468655
+dimwishlist:item=3920310144&perks=2840833776,331667533,164468655
+dimwishlist:item=3920310144&perks=2840833776,395388285,164468655
+dimwishlist:item=3920310144&perks=573122728,1771339417,164468655
+dimwishlist:item=3920310144&perks=573122728,3751912585,164468655
+dimwishlist:item=3920310144&perks=573122728,331667533,164468655
+dimwishlist:item=3920310144&perks=573122728,395388285,164468655
+dimwishlist:item=3920310144&perks=424370782,1771339417,164468655
+dimwishlist:item=3920310144&perks=424370782,3751912585,164468655
+dimwishlist:item=3920310144&perks=424370782,331667533,164468655
+dimwishlist:item=3920310144&perks=424370782,395388285,164468655
+
+
+// Midha's Reckoning - Midha's Reckoning (pve)
+//notes: (A) High-Impact / Arc / Energy damage, Energy utility [6.5] tags:pve
+dimwishlist:item=3969066556&perks=2869569095,3708227201,120721526
+dimwishlist:item=3969066556&perks=2869569095,1546637391,120721526
+dimwishlist:item=3969066556&perks=2869569095,1427256713,120721526
+dimwishlist:item=3969066556&perks=2869569095,781192741,120721526
+dimwishlist:item=3969066556&perks=2869569095,3418165135,120721526
+dimwishlist:item=3969066556&perks=2869569095,254337357,120721526
+dimwishlist:item=3969066556&perks=1799762209,3708227201,120721526
+dimwishlist:item=3969066556&perks=1799762209,1546637391,120721526
+dimwishlist:item=3969066556&perks=1799762209,1427256713,120721526
+dimwishlist:item=3969066556&perks=1799762209,781192741,120721526
+dimwishlist:item=3969066556&perks=1799762209,3418165135,120721526
+dimwishlist:item=3969066556&perks=1799762209,254337357,120721526
+dimwishlist:item=3969066556&perks=2308090567,3708227201,120721526
+dimwishlist:item=3969066556&perks=2308090567,1546637391,120721526
+dimwishlist:item=3969066556&perks=2308090567,1427256713,120721526
+dimwishlist:item=3969066556&perks=2308090567,781192741,120721526
+dimwishlist:item=3969066556&perks=2308090567,3418165135,120721526
+dimwishlist:item=3969066556&perks=2308090567,254337357,120721526
+dimwishlist:item=3969066556&perks=1008128453,3708227201,120721526
+dimwishlist:item=3969066556&perks=1008128453,1546637391,120721526
+dimwishlist:item=3969066556&perks=1008128453,1427256713,120721526
+dimwishlist:item=3969066556&perks=1008128453,781192741,120721526
+dimwishlist:item=3969066556&perks=1008128453,3418165135,120721526
+dimwishlist:item=3969066556&perks=1008128453,254337357,120721526
+
+
+// Prophet of Doom - Prophet of Doom (pve)
+//notes: (D) Precision / Arc / Energy utility [1] tags:pve
+dimwishlist:item=4020742303&perks=2679249093
+
+
+// Bonechiller - Bonechiller (pve)
+//notes: (D) Slug / Void / Energy swap [2.5] tags:pve
+dimwishlist:item=4037745684&perks=3436462433
+dimwishlist:item=4037745684&perks=1556840489
+dimwishlist:item=4037745684&perks=3400784728
+dimwishlist:item=4037745684&perks=3300816228
+
+
+// Thoughtless - Thoughtless (pve)
+//notes: (C) Adaptive / Stasis / Kinetic [3.5] tags:pve
+dimwishlist:item=4067556514&perks=3643424744,1771339417
+dimwishlist:item=4067556514&perks=3643424744,2896038713
+dimwishlist:item=4067556514&perks=3643424744,395388285
+dimwishlist:item=4067556514&perks=3643424744,2402480669
+dimwishlist:item=4067556514&perks=2682205016,1771339417
+dimwishlist:item=4067556514&perks=2682205016,2896038713
+dimwishlist:item=4067556514&perks=2682205016,395388285
+dimwishlist:item=4067556514&perks=2682205016,2402480669
+
+
+// Techeun Force - Techeun Force (pve)
+//notes: (A) Adaptive / Arc / Energy damage [6.5] tags:pve
+dimwishlist:item=3591141932&perks=968510818,2213355989
+dimwishlist:item=3591141932&perks=968510818,2594592626
+dimwishlist:item=3591141932&perks=3418782618,2213355989
+dimwishlist:item=3591141932&perks=3418782618,2594592626
+dimwishlist:item=3591141932&perks=2039302152,2213355989
+dimwishlist:item=3591141932&perks=2039302152,2594592626
+
+
+// Explosive Personality - Explosive Personality (pve)
+//notes: (A) Wave / Solar / Energy splash [7.5] tags:pve
+dimwishlist:item=4096943616&perks=2869569095,3108830275
+dimwishlist:item=4096943616&perks=2869569095,855168139
+dimwishlist:item=4096943616&perks=2869569095,4104185692
+dimwishlist:item=4096943616&perks=2869569095,3007133316
+dimwishlist:item=4096943616&perks=2869569095,4049631843
+dimwishlist:item=4096943616&perks=2869569095,859780267
+dimwishlist:item=4096943616&perks=2308090567,3108830275
+dimwishlist:item=4096943616&perks=2308090567,855168139
+dimwishlist:item=4096943616&perks=2308090567,4104185692
+dimwishlist:item=4096943616&perks=2308090567,3007133316
+dimwishlist:item=4096943616&perks=2308090567,4049631843
+dimwishlist:item=4096943616&perks=2308090567,859780267
+dimwishlist:item=4096943616&perks=3300816228,3108830275
+dimwishlist:item=4096943616&perks=3300816228,855168139
+dimwishlist:item=4096943616&perks=3300816228,4104185692
+dimwishlist:item=4096943616&perks=3300816228,3007133316
+dimwishlist:item=4096943616&perks=3300816228,4049631843
+dimwishlist:item=4096943616&perks=3300816228,859780267
+dimwishlist:item=4096943616&perks=3528046508,3108830275
+dimwishlist:item=4096943616&perks=3528046508,855168139
+dimwishlist:item=4096943616&perks=3528046508,4104185692
+dimwishlist:item=4096943616&perks=3528046508,3007133316
+dimwishlist:item=4096943616&perks=3528046508,4049631843
+dimwishlist:item=4096943616&perks=3528046508,859780267
+
+
+// Snorri FR5 - Snorri FR5 (pve)
+//notes: (C) Precision / Void / Energy damage [2.5] tags:pve
+dimwishlist:item=4114929480&perks=4104185692
+dimwishlist:item=4114929480&perks=2213355989
+dimwishlist:item=4114929480&perks=1427256713
+
+
+// Locus Locutus - Locus Locutus (pve)
+//notes: (C) Adaptive / Stasis / Kinetic [3.5] tags:pve
+dimwishlist:item=4132072834&perks=3643424744,1771339417
+dimwishlist:item=4132072834&perks=3643424744,395388285
+dimwishlist:item=4132072834&perks=3643424744,2319119708
+dimwishlist:item=4132072834&perks=3643424744,2140591236
+dimwishlist:item=4132072834&perks=2682205016,1771339417
+dimwishlist:item=4132072834&perks=2682205016,395388285
+dimwishlist:item=4132072834&perks=2682205016,2319119708
+dimwishlist:item=4132072834&perks=2682205016,2140591236
+
+
+// The Militia's Birthright (Adept) - The Militia's Birthright (Adept) (pve)
+//notes: (C) Lightweight / Kinetic / Kinetic utility [6.5] tags:pve
+dimwishlist:item=4162642204&perks=1556840489,3300816228
+dimwishlist:item=4162642204&perks=1556840489,4104185692
+dimwishlist:item=4162642204&perks=1556840489,960810156
+dimwishlist:item=4162642204&perks=2039302152,3300816228
+dimwishlist:item=4162642204&perks=2039302152,4104185692
+dimwishlist:item=4162642204&perks=2039302152,960810156
+dimwishlist:item=4162642204&perks=2010801679,3300816228
+dimwishlist:item=4162642204&perks=2010801679,4104185692
+dimwishlist:item=4162642204&perks=2010801679,960810156
+
+
+// 1000 Yard Stare - 1000 Yard Stare (pve)
+//notes: (D) Adaptive / Void / Energy [0] tags:pve
+dimwishlist:item=4164201232&perks=3400784728
+
+
+// Adored - Adored (pve)
+//notes: (D) Adaptive / Arc / Energy [2] tags:pve
+dimwishlist:item=4184808992&perks=3400784728,1546637391
+
+
+// Ragnhild-D - Ragnhild-D (pve)
+//notes: (A) Aggressive / Kinetic / Kinetic swap [8] tags:pve
+dimwishlist:item=4225322581&perks=3300816228,2679249093
+dimwishlist:item=4225322581&perks=3300816228,788178929
+dimwishlist:item=4225322581&perks=3300816228,4104185692
+dimwishlist:item=4225322581&perks=3300816228,3007133316
+dimwishlist:item=4225322581&perks=3528046508,2679249093
+dimwishlist:item=4225322581&perks=3528046508,788178929
+dimwishlist:item=4225322581&perks=3528046508,4104185692
+dimwishlist:item=4225322581&perks=3528046508,3007133316
+
+
+// Heritage - Heritage (pve)
+//notes: (A) Slug / Kinetic / Kinetic utility, Kinetic swap [8] tags:pve
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=1523832109,2896038713
+dimwishlist:item=4248569242&perks=1523832109,3335686050
+dimwishlist:item=4248569242&perks=1523832109,2402480669
+dimwishlist:item=4248569242&perks=3300816228,469285294
+dimwishlist:item=4248569242&perks=3300816228,2896038713
+dimwishlist:item=4248569242&perks=3300816228,3335686050
+dimwishlist:item=4248569242&perks=3300816228,2402480669
+dimwishlist:item=4248569242&perks=4071163871,469285294
+dimwishlist:item=4248569242&perks=4071163871,2896038713
+dimwishlist:item=4248569242&perks=4071163871,3335686050
+dimwishlist:item=4248569242&perks=4071163871,2402480669
+dimwishlist:item=4248569242&perks=3528046508,469285294
+dimwishlist:item=4248569242&perks=3528046508,2896038713
+dimwishlist:item=4248569242&perks=3528046508,3335686050
+dimwishlist:item=4248569242&perks=3528046508,2402480669
+dimwishlist:item=4248569242&perks=461595545,469285294
+dimwishlist:item=4248569242&perks=461595545,2896038713
+dimwishlist:item=4248569242&perks=461595545,3335686050
+dimwishlist:item=4248569242&perks=461595545,2402480669
+dimwishlist:item=4248569242&perks=494941759,469285294
+dimwishlist:item=4248569242&perks=494941759,2896038713
+dimwishlist:item=4248569242&perks=494941759,3335686050
+dimwishlist:item=4248569242&perks=494941759,2402480669
+
+
+// Empty Vessel - Empty Vessel (pve)
+//notes: (B) Lightweight / Solar / Energy damage [7] tags:pve
+dimwishlist:item=4255586669&perks=2869569095,3523296417
+dimwishlist:item=4255586669&perks=2869569095,960810156
+dimwishlist:item=4255586669&perks=2869569095,1546637391
+dimwishlist:item=4255586669&perks=1556840489,3523296417
+dimwishlist:item=4255586669&perks=1556840489,960810156
+dimwishlist:item=4255586669&perks=1556840489,1546637391
+dimwishlist:item=4255586669&perks=3300816228,3523296417
+dimwishlist:item=4255586669&perks=3300816228,960810156
+dimwishlist:item=4255586669&perks=3300816228,1546637391
+dimwishlist:item=4255586669&perks=2010801679,3523296417
+dimwishlist:item=4255586669&perks=2010801679,960810156
+dimwishlist:item=4255586669&perks=2010801679,1546637391
+
+
+// Last Man Standing - Last Man Standing (pve)
+//notes: (D) Aggressive / Solar / Energy swap [4] tags:pve
+dimwishlist:item=4287947559&perks=4071163871,2679249093
+
+
