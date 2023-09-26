@@ -1,6 +1,5 @@
 title:Aegis Weapon Tiering S22
-description:Taken from Aegis' Weapon Tiering series. Full info found here: 
-https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit#gid=1358721053
+description:Taken from Aegis' Weapon Tiering series. Full info found here: https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/edit#gid=1358721053
 
 // The Wizened Rebuke - The Wizened Rebuke (pve)
 //notes: (C) High-Impact / Arc / Energy damage [2.5] tags:pve
@@ -232,6 +231,34 @@ dimwishlist:item=522366885&perks=461595545,2402480669
 //notes: (D) Precision / Arc / Energy utility [2] tags:pve
 dimwishlist:item=534775659&perks=1427256713
 dimwishlist:item=534775659&perks=1799762209
+
+
+// Retraced Path - Retraced Path (pve)
+//notes: (A) Solar / Energy tags:pve
+dimwishlist:item=548958835&perks=3700496672,4104185692
+dimwishlist:item=548958835&perks=3700496672,4293542123
+dimwishlist:item=548958835&perks=3700496672,3523296417
+dimwishlist:item=548958835&perks=3700496672,1906147653
+dimwishlist:item=548958835&perks=3700496672,3007133316
+dimwishlist:item=548958835&perks=3700496672,2675184851
+dimwishlist:item=548958835&perks=2840833776,4104185692
+dimwishlist:item=548958835&perks=2840833776,4293542123
+dimwishlist:item=548958835&perks=2840833776,3523296417
+dimwishlist:item=548958835&perks=2840833776,1906147653
+dimwishlist:item=548958835&perks=2840833776,3007133316
+dimwishlist:item=548958835&perks=2840833776,2675184851
+dimwishlist:item=548958835&perks=1048183818,4104185692
+dimwishlist:item=548958835&perks=1048183818,4293542123
+dimwishlist:item=548958835&perks=1048183818,3523296417
+dimwishlist:item=548958835&perks=1048183818,1906147653
+dimwishlist:item=548958835&perks=1048183818,3007133316
+dimwishlist:item=548958835&perks=1048183818,2675184851
+dimwishlist:item=548958835&perks=3431277734,4104185692
+dimwishlist:item=548958835&perks=3431277734,4293542123
+dimwishlist:item=548958835&perks=3431277734,3523296417
+dimwishlist:item=548958835&perks=3431277734,1906147653
+dimwishlist:item=548958835&perks=3431277734,3007133316
+dimwishlist:item=548958835&perks=3431277734,2675184851
 
 
 // Sojourner's Tale - Sojourner's Tale (pve)
@@ -615,6 +642,22 @@ dimwishlist:item=1402766122&perks=706527188,2360754333
 dimwishlist:item=1403800851&perks=968510818,1546637391
 
 
+// Acasia's Dejection - Acasia's Dejection (pve)
+//notes: (S) Solar / Energy tags:pve
+dimwishlist:item=1471212226&perks=1523832109,4104185692
+dimwishlist:item=1471212226&perks=1523832109,3215448563
+dimwishlist:item=1471212226&perks=1523832109,4293542123
+dimwishlist:item=1471212226&perks=1523832109,3007133316
+dimwishlist:item=1471212226&perks=1523832109,3299896859
+dimwishlist:item=1471212226&perks=1523832109,2675184851
+dimwishlist:item=1471212226&perks=461595545,4104185692
+dimwishlist:item=1471212226&perks=461595545,3215448563
+dimwishlist:item=1471212226&perks=461595545,4293542123
+dimwishlist:item=1471212226&perks=461595545,3007133316
+dimwishlist:item=1471212226&perks=461595545,3299896859
+dimwishlist:item=1471212226&perks=461595545,2675184851
+
+
 // Without Remorse - Without Remorse (pve)
 //notes: (B) Lightweight / Solar / Energy utility [7] tags:pve
 dimwishlist:item=1478986057&perks=4071163871,2679249093
@@ -875,6 +918,14 @@ dimwishlist:item=2306182339&perks=960810156,4104185692
 dimwishlist:item=2306182339&perks=960810156,1546637391
 
 
+// Hollow Denial - Hollow Denial (pve)
+//notes: (A) Void / Energy tags:pve
+dimwishlist:item=2323544076&perks=1556840489,776531651
+dimwishlist:item=2323544076&perks=1556840489,2541826827
+dimwishlist:item=2323544076&perks=3442762221,776531651
+dimwishlist:item=2323544076&perks=3442762221,2541826827
+
+
 // The Comedian (Adept) - The Comedian (Adept) (pve)
 //notes: (A) Aggressive / Void / Energy swap [8] tags:pve
 dimwishlist:item=2443900757&perks=2621346526,2360754333
@@ -1019,6 +1070,14 @@ dimwishlist:item=2821430069&perks=1354429876,2896038713
 dimwishlist:item=2821430069&perks=1354429876,4104185692
 dimwishlist:item=2821430069&perks=1354429876,3708227201
 dimwishlist:item=2821430069&perks=1354429876,1546637391
+
+
+// Path of Least Resistance - Path of Least Resistance (pve)
+//notes: (S) Arc / Energy tags:pve
+dimwishlist:item=2827764482&perks=3700496672,2173046394
+dimwishlist:item=2827764482&perks=3700496672,1720528630
+dimwishlist:item=2827764482&perks=2840833776,2173046394
+dimwishlist:item=2827764482&perks=2840833776,1720528630
 
 
 // A Sudden Death - A Sudden Death (pve)
@@ -1399,6 +1458,22 @@ dimwishlist:item=3473290087&perks=3300816228,2213355989
 dimwishlist:item=3473290087&perks=3300816228,1546637391
 dimwishlist:item=3473290087&perks=2284787283,2213355989
 dimwishlist:item=3473290087&perks=2284787283,1546637391
+
+
+// Acasia's Dejection (Adept) - Acasia's Dejection (Adept) (pve)
+//notes: (S) Solar / Energy tags:pve
+dimwishlist:item=3493494807&perks=1523832109,4104185692
+dimwishlist:item=3493494807&perks=1523832109,4293542123
+dimwishlist:item=3493494807&perks=1523832109,3215448563
+dimwishlist:item=3493494807&perks=1523832109,3007133316
+dimwishlist:item=3493494807&perks=1523832109,3299896859
+dimwishlist:item=3493494807&perks=1523832109,2675184851
+dimwishlist:item=3493494807&perks=461595545,4104185692
+dimwishlist:item=3493494807&perks=461595545,4293542123
+dimwishlist:item=3493494807&perks=461595545,3215448563
+dimwishlist:item=3493494807&perks=461595545,3007133316
+dimwishlist:item=3493494807&perks=461595545,3299896859
+dimwishlist:item=3493494807&perks=461595545,2675184851
 
 
 // Defiance of Yasmin (Harrowed) - Defiance of Yasmin (Harrowed) (pve)
